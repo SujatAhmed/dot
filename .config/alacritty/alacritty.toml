@@ -1,0 +1,19 @@
+
+[font]
+size = 15.0
+
+[font.normal]
+family = "Jetbrains Mono Nerd Font"
+style = "Thin"
+
+
+
+[window]
+opacity = 0.8
+
+
+
+[window.padding]
+x = 6
+y = 0 
+
