@@ -7,6 +7,9 @@
 
 PS1='[\u@\h \W]\$ '
 
+
+export MOZ_ENABLE_WAYLAND=1
+
 source ~/.local/share/blesh/ble.sh
 eval "$(zoxide init bash)"
 eval "$(starship init bash)"
