@@ -18,3 +18,4 @@ alias m="mpv --hwdec=auto-safe"
 alias mu="mpv --no-audio-display"
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
+alias l='ls -a'

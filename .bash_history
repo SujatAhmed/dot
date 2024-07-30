@@ -1,100 +1,3 @@
-stow .
-cd 
-cd .config
-ls
-xdg-user-dirs-update
-cd
-ls
-rm Desktop Documents Downloads Music Pictures Public Templates Videos 
-rm -rf Desktop Documents Downloads Music Pictures Public Templates Videos 
-ls
-ls
-rm -rf Downloads
-ls
-cd .config
-nvim user-dirs.dirs
-xdg-user-dirs-update
-cd
-ls
-.local/bin/wrappedh1 
-poweroff
-nvim ~/.config/hypr/hyprland.conf 
-sudo pacman -S blueman
-systemctl start bluetooth.service
-systemctl enable bluetooth.service
-nvim .cfg/.config/user-dirs.dirs 
-nvim .cfg/.config/user-dirs.dirs 
-ls
-rm Desktop/ Documents/ Music/ Pictures/ Public/ Templates/ Videos/
-rm -rf  Desktop/ Documents/ Music/ Pictures/ Public/ Templates/ Videos/
-ls
-cd .config 
-ls
-nvimm user-dirs.dirs 
-nvim user-dirs.dirs 
-ls
-xdg-user-dirs-update 
-ls
-nvim user-dirs.
-nvim user-dirs.dirs 
-ls
-cd
-ls
-cd core/dwl
-ls
-cd .cfg
-cd
-cd .cfg
-ls
-cd .config/
-ls
-ls
-nvim user-dirs.dirs 
-sudo nvim user-dirs.dirs 
-cd
-ls
-rm -rf Desktop/ Documents/ Music/ Pictures/ Public/ Templates/ Videos/
-ls
-cd core/dwl
-ls
-ls
-cd
-ls
-sudo pacman -S nvtop
-vainfo 
-sudo pacman -s libva-utils
-sudo pacman -S libva-utils
-vainfo
-sudo pacman -S vaapi
-sudo pacman -S mesa
-sudo pacman -S libva-intel-driver
-vainfo
-nvtop
-htop
-sudo pacman -S htop
-htop
-sudo pacman mpv
-sudo pacman -S mpv
-mpv https://www.youtube.com/watch?v=AnlFGjtH18s&t=49s
-nvtop
-.local/bin/wrappedh1 
-poweroff
-sudo pacman -S brightnessctl
-sudo systemctl enable brightnessctl
-sudo systemctl enable brightnessctl.service
-ls
-rm -rf Desktop/ Documents/ Music/ Pictures/ Public/ Templates/ Videos/
-cd .config
-ls 
-rm user-dirs.dirs user-dirs.locale 
-ls
-cd ..
-cd .cfg/.config
-ls
-nvim user-dirs.dir
-sudo nvim user-dirs.dir
-nvim user-dirs.dirs 
-ls
 cd ..
 stow .
 cd
@@ -498,3 +401,100 @@ z wc22/
 z
 rm -rf wc22
 ls
+ls
+ls -a
+mv *bash* .cfg 
+mv *.bash* .cfg 
+mv .bash_history .bash_profile .bash_logout .bashrc .cfg
+z .cfg
+stow .
+git add . && git commit -m "added all the bash stuff"
+git push origin main 
+z
+ls
+ls -a 
+nvim .zshrc 
+ls
+cd 
+rm -rf .zshrc  
+z .cfg
+ls
+ls -a 
+rm -rf .zshrc  
+git add . && git commit -m "removed zsh stuff"
+git push origin main 
+z
+ls 
+ls -a
+nvim .bashrc
+z .cfg
+z .config/
+mkdir starship.toml
+z
+z .cfg
+stow .
+z .config/
+ls
+rm -rf starship.toml/
+touch starship.toml
+z .. 
+stow .
+z 
+starship preset jetpack -o ~/.config/starship.toml
+ls
+z .cfg
+z starship.toml
+z .config 
+ls 
+nvim starship.toml 
+ls
+starship preset tokyo-night -o ~/.config/starship.toml
+ls
+z
+nvim
+ls
+z .cfg
+ls
+git add . && git commit -m "updated the starship prompt"
+z
+z .cfg
+nvim .bashrc
+l
+nvim .bashrc
+l
+nvim .bashrc
+source .bashrc
+l
+ls
+l
+sudo pacman -Syu 
+sudo pacman -S xdg-desktop-portal-hyprland
+z .local/bin
+l
+nvim optmization 
+nvim wrappedh1 
+nvim 
+sudo pacman -S hyrlock
+sudo pacman -S hyprlock
+hyprlock
+x hyprlock
+z .config/hypr
+z ~/.config/hypr
+ls
+touch hyprlock.conf
+hyprlock
+nvim hyprlock.conf 
+hyprlock
+hyprlock
+z dwl
+ls
+z core
+l
+z media
+mkdir wallpapers
+z 
+z dwl
+ls
+l
+mv wallhaven-p9zql9_3840x2160.png ~/core/media/wallpapers/
+mv wallhaven-3lv9z6_3840x2160.png ~/core/media/wallpapers
