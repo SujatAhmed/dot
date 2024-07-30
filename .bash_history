@@ -1,61 +1,3 @@
-cd ..
-stow .
-cd
-ls
-cd .config
-ls
-nvim user-dirs.dirs 
-cd 
-cd core
-cd ~/.config
-ls
-nvim user-dirs.dirs 
-cd ~/core
-mkdir docs
-ls
-.local/bin/wrappedh1 
-reboot
-ls
-sudo pacman -S nwg-look
-nvtop
-htop
-.local/bin/wrappedh1
-poweroff
-.local/bin/wrappedh1 
-poweroff
-nmtui
-nmtui
-ping www.youtube.com
-.local/bin/wrappedh1 
-poweroff
-.local/bin/wrappedh1 
-poweroff
-nvim ~/.config/hypr/hyprland.conf
-.local/bin/wrappedh1 
-poweroff 
-.local/bin/wrappedh1 
-poweroff 
-ping www.youtube.com
-.local/bin/wrappedh1 
-sudo pacman -Syu
-poweroff
-sudo pacman -Syu
-.local/bin/wrappedh1 
-poweroff 
-sudo pacman -Syu
-ls
-la
-ls -a
-git config --list
-sudo pacman -S bluedevil
-sudo pacman -S blueberry
-cd .cfg 
-git init
-git add . 
-git commit -m "first commit"
-git remote add origin git@github.com:SujatAhmed/sujat-dotfiles.git
-git branch -M main
-git push -u origin main
 ls 
 sudo pacman -Q | grep blue 
 sudo pacman -R blueman 
@@ -498,3 +440,61 @@ ls
 l
 mv wallhaven-p9zql9_3840x2160.png ~/core/media/wallpapers/
 mv wallhaven-3lv9z6_3840x2160.png ~/core/media/wallpapers
+sudo pacman -S hypridle
+z hypr
+ls
+..
+z .cfg hypr
+z .cfg .config
+l
+z hypr 
+l 
+touch hypridle.conf
+nvim hypridle.conf 
+z
+z .cfg
+ls
+stow .
+git add . && git commit -m "added hyprlcok and hypridle"
+git push origin main 
+ls
+l 
+z dwl
+ls
+mv wallhaven-vqjg95_1920x1080.png ~/core/media/wallpapers
+whoami
+z scripts
+ls
+/home/sujat/
+z /home/sujat/
+sudo visudo EDITOR=nvim
+sudo visudo
+reboot.sh 
+z scripts
+reboot.sh 
+ls
+poweroff.sh
+mv poweorff.sh sutdown.sh
+mv reboot.sh restart.sh
+l
+visudo 
+sudo nvim /etc/sudoers
+z scripts
+ls
+nvim re
+ls
+nvim restart.sh 
+nvim restart.sh 
+nvim sutdown.sh 
+sudo nvim /etc/sudoers
+ls
+mv sutdown.sh shutdown.sh
+ls
+chmod +x shutdown.sh 
+nvim shutdown.sh 
+nvim restart.sh 
+sudo nvim /etc/sudoers
+nvim
+sudo pacman -S zathura 
+sudo nvim /etc/default/grub 
+sudo grub-mkconfig -o /boot/grub/grub.cfg
