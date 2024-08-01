@@ -1,95 +1,3 @@
-ls 
-sudo pacman -Q | grep blue 
-sudo pacman -R blueman 
-sudo pacman -S pavucontrol
-ssh-keygen -t ed25519 -C "sujatahmed842002@gmail.com"
-sudo pacman -S openssh 
-ssh-keygen -t ed25519 -C "sujatahmed842002@gmail.com"
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_ed25519
-cat ~/.ssh/id_ed25519
-cat ~/.ssh/id_ed25519.pub
-cat ~/.ssh/id_ed25519.pub
-sudo pacman -S hyprpaper
-nvim
-nvim ~/.config/hypr/hyprpaper.cong
-nvim ~/.config/hypr/hyprpaper.conf
-nvim ~/.config/hypr/hyprland.conf 
-hyprctl dispatch exit
-.local/bin/w
-.local/bin/wrappedh1 
-.local/bin/wrappedh1 
-.local/bin/wrappedh1 
-poweroff 
-cd core/
-ls
-cd dwl 
-ls
-unzip Material-Black-Blueberry-2.9.9-07.zip 
-ls
-sudo mv Material-Black-Blueberry /usr/share/themes/Default/gtk-3.0/
-cd /usr/share
-ls
-cd themes
-ls
-cd Default
-ls
-cd gtk-3,0
-cd gtk-3.0
-ls
-nvim ~/.config/gtk-3.0/settings.ini 
-nvim ~/.config/
-cd  ~/.config/
-ls
-cd nwg-look
-ls
-cd config
-nvim config
-ls
-cd ..
-ls
-cd xsettingsd/
-ls
-nvim xsettingsd.conf 
-cd /usr/share/themes
-ls
-cd Default 
-ls
-cd gtk-3.0
-ls
-mv Material-Black-Blueberry/ ..
-sudo mv Material-Black-Blueberry/ ..
-cd ..
-ls
-sudo mv Material-Black-Blueberry/ ..
-ls
-cd ..
-ls
-cd core/dwl
-ls
-tar -xzf papirus-icon-theme-20240501.tar.gz 
-ls
-sudo mv Papirus-Dark /usr/share/icons
-sudo mv Papirus /usr/share/icons
-.local/bin/wrappedh1 
-nvim
-cd core/dwl
-tar -xzf capitaine-cursors-r4.tar.gz 
-sudo mv capitaine-cursors /usr/share/icons
-cd .cfg
-cd ..
-cd .config 
-ls
-mkdir wofi 
-cd wofi 
-nvim config
-nvim config
-cd ..
-ls
-reboot
-wofi
-wofi --show
-wofi --show drun
 nvim
 .local/bin/w
 .local/bin/wrappedh1 
@@ -498,3 +406,95 @@ nvim
 sudo pacman -S zathura 
 sudo nvim /etc/default/grub 
 sudo grub-mkconfig -o /boot/grub/grub.cfg
+z .cfg
+git add . && git commit -m "added hyprlcok and hypridle"
+git push origin main 
+nvme-cli
+nvme 
+nvme get-feature /dev/nvme0n1
+sudo nvme get-feature /dev/nvme0n1
+fstrim -v /
+sudo fstrim -v /
+sudo pacman -S kdeconnect
+journalctl | grep nvme
+touch journal.txt
+journalctl | grep nvme > journal.txt 
+nvim journal.txt 
+dmesg | grep nvme
+sudo dmesg | grep nvme
+nvme smart-log /dev/nvme0n1
+sudo nvme smart-log /dev/nvme0n1
+sudo nvme smart-log -H /dev/nvme0n1
+sudo nvim /etc/default/grub 
+lsblk
+sudo dd if=~/core/dwl/linuxmint-22-cinnamon-64bit.iso of=/dev/sdb bs=2M
+sudo dd if=~/core/dwl/linuxmint-22-cinnamon-64bit.iso of=/dev/sdb bs=2M status=progress
+lsblk
+lsblk
+lsblk
+sudo dd if=~/core/dwl/linuxmint-22-cinnamon-64bit.iso of=/dev/sdb bs=2M status=progress
+ls
+lsblk
+sudo pacman -S thunar
+lsblk
+journalctl | grep nvme 
+journalctl | grep nvme 
+journalctl | grep nvme > journal.txt 
+z core
+ls
+lsblk
+sudo nvim /etc/default/grub 
+z dwl
+./balena-etcher 
+sudo dd if=~/core/dwl/linuxmint-22-cinnamon-64bit.iso of=/dev/sdb bs=2M status=progress
+sudo dd if=~/linuxmint-22-cinnamon-64bit.iso of=/dev/sdb bs=2M status=progress
+cat /proc/meminfo
+cat /proc/meminfo
+cat /proc/meminfo
+cat /proc/meminfo | grep dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
+cat /proc/meminfo | grep Dirty
