@@ -1,6 +1,3 @@
-nvim
-.local/bin/w
-.local/bin/wrappedh1 
 sudo pacman -S qbittorrent
 poweroff 
 mv ~/.config/wofi ~/.cfg/.config
@@ -498,3 +495,6 @@ cat /proc/meminfo | grep Dirty
 cat /proc/meminfo | grep Dirty
 cat /proc/meminfo | grep Dirty
 cat /proc/meminfo | grep Dirty
+z .cfg
+git add . && git commit -m "dunno"
+git push origin main 
