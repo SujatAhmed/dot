@@ -1,136 +1,3 @@
-sudo pacman -S qbittorrent
-poweroff 
-mv ~/.config/wofi ~/.cfg/.config
-cd .cfg
-stow .
-git add . && git commit -m "added wofi config for icons"
-git push origin main 
-lsd
-sudo pacman -fzf
-sudo pacman -S fzf
-sudo pacman -S ripgrep
-cd .local 
-ls
-cd bin 
-ls
-cd 
-cd .config
-ls
-cd scripts 
-ls
-mv launch-nvim.zsh  launch-nvim.sh
-nvim launch-nvim.sh 
-nvim
-sudo pacman -S kdeconnect
-cd
-sudo systemctl enable kdeconnect.service
-sudo systemctl --user start kdeconnect
-sudo systemctl --user enable kdeconnect
-kdeconnect-cli
-kdeconnectd
-kdeconnectd --verbose
-sudo pacman -S kdeconnect-kde
-sudo pacman -Syu
-kdeconnect-cli
-kdeconnect-cli
-kdeconnect-cli -l
-sudo pacman -Rns kdeconnect
-sudo pacman -S qt6
-sudo pacman -S kdeconnect
-sudo pacman -S kdeconnect
-kdeconnect
-kdeconnect-cli
-sudo pacman -Q | grep qt6
-sudo pacman -Rns kdeconnect
-sudo pacman -S syncthing
-git clone https://github.com/varlesh/volantes-cursors.git
-cd volantes-cursors
-make build
-sudo make install
-sudo pacman -S inkscape
-cd ..
-ls
-cd Sync
-ls
-ls -a
-cd ..
-rm -rf Sync volantes-cursors/
-ls
-cd core/dw
-cd core/dwl
-unzip volantes-dark.zip 
-ls
-ls
-mkdir volantes
-mv *cur volante
-mv *cur volantes
-ls
-sudo mv volantes /usr/share/icons
-sudo rm -rf /usr/share/icons/volantes 
-ls
-cd core/dwl
-unzip Empty-Butterfly-Blue-vr6-Linux.zip 
-ls
-mv Empty-Butterfly-Blue-vr6-Linux /usr/share/icons
-sudo mv Empty-Butterfly-Blue-vr6-Linux /usr/share/icons
-cd /usr/share/icons
-ls
-rm -rf Empty-Butterfly-Blue-vr6-Linux/
-sudo rm -rf Empty-Butterfly-Blue-vr6-Linux/
-ls
-cd /usr/share/icons
-cd core/dwl
-cd ~core/dwl
-cd ~/core/dwl
-sudo tar -xzvf FossaCursors.tar.gz -C /usr/share/icons
-sudo pacman -Syu
-lspci
-.local/bin/wrappedh1 
-poweroff 
-sudo pacman -S brightnessctl 
-sudo pacman -S hyprshade
-cd 
-ls
-cd core
-mkdir media 
-ls
-ls -a
-cd media
-mkdir books
-cd books
-ls
-cd maths
-ls
-ls
-cd ..
-cd ..
-cd ~/core/dwl
-ls
-mv Jane\ Wightwick_\ Mahmoud\ Gaafar\ -\ Mastering\ Arabic\ 1\ \(2024\,\ Bloomsbury\ Publishing\)\ -\ libgen.li.pdf ~/core/media/books
-cd ..
-cd media
-cd books
-ls
-mkdir fantasy 
-mv Brandon\ Sanderson\ -\ The\ Way\ of\ Kings\ \(The\ Stormlight\ Archive\) fantasy
-ls
-cd fantasy 
-ls
-cd ..
-ls
-mv Brandon\ Sanderson\ -\ The\ Way\ of\ Kings\ \(The\ Stormlight\ Archive\) fantasy/
-mv *Brandon* fantasy 
-ls
-mv *Codex* fantasy
-ls
-mkdir physics
-ls
-mv *Special* physics
-ls
-mv *General* physics
-ls
-mv *Relativity* physics 
-ls
 mkdir language 
 ls
 mv Jane\ Wightwick_\ Mahmoud\ Gaafar\ -\ Mastering\ Arabic\ 1\ \(2024\,\ Bloomsbury\ Publishing\)\ -\ libgen.li.pdf language
@@ -498,3 +365,136 @@ cat /proc/meminfo | grep Dirty
 z .cfg
 git add . && git commit -m "dunno"
 git push origin main 
+ls -a 
+cd 
+cd .cfg 
+ls-a
+ls -a 
+cd
+rm -rf *bash*
+cd
+cd
+ls -a
+rm .bashrc
+ls
+ls -a
+rm .bash_history 
+rm .bash_logout 
+rm .bash_profile 
+ls
+ls -a 
+rm -rf ~/.config/hypr 
+cd .cfg 
+stow .
+nvim 
+sudo pacman -S stow
+sudo pacman -S wofi waybar 
+sudo pacman -S hypridle hyprlock
+sudo pacman -S alacirtty 
+sudo pacman -S alacritty
+git clone https://github.com/SujatAhmed/sujat-dotfiles.git
+ls -a 
+mv sujat-dotfiles .cfg
+ls
+cd Downloads/
+ls
+cd ~/.local/share
+ls
+mkdir fonts
+cd fonts 
+mkdir jetbrains 
+cd
+cd Downloads/
+ls
+unzip JetBrainsMono.zip ~/.local/share/fonts/jetbrains/
+uzip JetBrainsMono.zip ~/.local/share/fonts/jetbrains/
+sudo pacman -S unzip
+uzip JetBrainsMono.zip ~/.local/share/fonts/jetbrains/
+unzip JetBrainsMono.zip ~/.local/share/fonts/jetbrains/
+unzip JetBrainsMono.zip -d ~/.local/share/fonts/jetbrains/
+cd 
+cd .cfg 
+stow .
+cd
+ls -a 
+cd .cfg 
+ls
+ls -a
+nvim 
+nvim 
+reboot
+Qudsahd
+sudo pacman -S firefox
+nmtui
+sudo pacman -S firefox
+lsblk
+firefox
+nvim 
+nvim 
+sudo pacman -Rns nvim 
+sudo pacman -R neovim
+sudo pacman -S zoxide
+sudo pacman -S npm 
+sudo pacman -S npm 
+sudo pacman -R nvim 
+sudo pacman -Rns neovim 
+rm -rf ~/.local/share/nvim
+cd
+sudo pacman -S neovim
+nvim
+sudo pacman -S starship
+vim
+sudo vim /etc/pacman.d/mirrorlist
+sudo pacman -S wl-clipboard
+sudo pacman -S zoxide
+z 
+rm -rf ~/.local/share/nvim
+nvim
+z 
+nvim .bashrc
+git clone --recursive --depth 1 --shallow-submodules https://github.com/akinomyoga/ble.sh.git
+make -C ble.sh install PREFIX=~/.local
+echo 'source ~/.local/share/blesh/ble.sh' >> ~/.bashrc
+ls
+rm -rf Downloads/
+ls
+z core
+ls
+z 
+rm -rf ble.sh/ 
+l
+sudo nvim /etc/pacman.d/mirrorlist 
+sudo pacman -S wl-paste
+sudo pacman -S cliphist
+sudo pacman -S pavucontrol
+l
+nvim ~/.config/hypr/hypridle.conf 
+nvim ~/.config/hypr/hyprlock.conf 
+sudo pacman -S hyprpaper 
+sudo pacman -S nwg-look
+z dwl
+z core/dw;
+z core/dwl
+ls
+sudo unzip Material-Black-Blueberry-2.9.9-07.zip -d /usr/share/themes/
+z dwl 
+ls 
+sudo tar -xzf papirus-icon-theme-20240501.tar.gz -C /usr/share/icons/
+sudo pacman -S libva intel-mesa-driver ffmepeg 
+sudo pacman -S libva intel-mesa-driver ffmpeg 
+sudo pacman -S libva intel-media-driver ffmpeg 
+journalctl | grep nvme 
+sudo dmesg | grep nvme
+sudo pacman -S mpv 
+vainfo
+sudo pacan -S libva-utils
+sudo pacman -S libva-utils
+vainfo
+mv ~/core/dwl/wallhaven-85mqwy_3840x2160.png ~/wallpapers
+nvim ~/.config/hypr/hyprpaper.conf 
+sudo systemctl enable bluetoothctl 
+sudo pacman -S blueberry 
+starship preset nerd-font-symbols -o ~/.config/starship.toml
+ls 
+z 
+z .cfg
