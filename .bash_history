@@ -1,24 +1,3 @@
-z lan
-z langua
-z language 
-z
-z la
-l
-ls
-ls
-mv
-mv Jane\ Wightwick_\ Mahmoud\ Gaafar\ -\ Mastering\ Arabic\ 1\ \(2024\,\ Bloomsbury\ Publishing\)\ -\ libgen.li.pdf mastering-arabic.pdf
-ls
-z
-ls
-mkdir -p test/books
-rm -rf test
-mkdir test/media/books
-ls
-mkdir -p test/media/books
-s
-ls
-z test/media/books
 z
 z books 
 z
@@ -498,3 +477,24 @@ nmtui
 hyprctl dispatch exit
 hyprctl dispatch exit
 hyprctl dispatch exit
+.cfg 
+z .cfg
+ls
+git add . && git commit -m "made changes to waybar"
+ssh-keygen -t ed25519 -C "sujatahmed842002@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519 
+cat ~/.ssh/id_ed25519.pub
+git push origin main 
+ssh -T git@github.com 
+git push origin main 
+z . 
+z ..
+ls
+z .cfg 
+git push origin main 
+cat ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub
+nvim ~/.ssh/id_ed25519.pub
+ssh -T git@github.com 
+git push origin main 
