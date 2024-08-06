@@ -1,108 +1,106 @@
 
-
 * {
     font-family: Jetbrains Mono Nerd Font, monospace;
-    font-size: 15px;
+    font-size: 18px;
 }
-	
-
 
 window#waybar { 
-    background-color: #031a2f; 
-    color: #ffffff;    
+    background-color: #282828; /* Gruvbox dark background */
+    color: #ebdbb2; /* Gruvbox foreground */
 }
-
 
 .modules-left {
-	background-color: #031a2f;
-	padding: 0px 0px 0px 0px;
+    background-color: #282828;
+    padding: 0px;
 }
-
 
 .modules-right {
-	/*background-color: #ff9c00;
-	background-color: #b25500;*/
-	background-color: #031a2f;
-	padding: 0px 0px 0px 0px;
+    background-color: #282828;
+    padding: 0px;
 }
-
 
 #custom-scratch {
-	background-color: #323232;
-	color: #b8b8b8;
-	padding: 0px 9px 0px 9px;
+    background-color: #3c3836; /* Slightly lighter for contrast */
+    color: #bdae93;
+    padding: 0px 9px;
 }
-
 
 #workspaces {
 }
 
-
 #workspaces button {
-	padding: 0px 0px 0px 0px; 
- 	min-width: 1px;
-	background-color: #031a2f;
-	color: #ffffff;
+    padding: 0px;
+    min-width: 1px;
+    background-color: #3c3836; /* Muted background */
+    color: #bdae93; /* Muted foreground */
 }
-
 
 #workspaces button.focused { 
-	padding: 0px 0px 0px 0px; 
-	background-color: #285577;
-	color: #ffffff;
+    padding: 0px;
+    background-color: #504945; /* Muted blue for focused */
+    color: #ebdbb2;
 }
-
 
 #mode { 
-	 background-color: #900000;
-	 color: #ffffff;
-     padding: 0px 5px 0px 5px;
-     border: 1px solid #2f343a;
+    background-color: #d65d0e; /* Gruvbox orange */
+    color: #ebdbb2;
+    padding: 0px 5px;
+    border: 1px solid #3c3836; /* Slightly lighter */
 }
-
 
 #window {
-	 color: #ffffff;
-	 background-color: #031a2f;
-     padding: 0px 10px 0px 10px;
+    color: #ebdbb2;
+    background-color: #504945; /* Darker grey for window module */
+    padding: 0px 10px;
 }
-
 
 window#waybar.empty #window {
-	background-color: #031a2f;
-	color: transparent;
+    background-color: #282828;
+    color: transparent;
 }
-
 
 window#waybar.empty {
-	background-color: #031a2f;
+    background-color: #282828;
 }
 
-
-#network, #temperature, #backlight, #pulseudio, #battery #clock{
-    padding: 0px 0px 0px 0px;
-}
-    
-
-/*#clock {
-	margin: 0px 15px 0px 15px;
-}*/
-
-
-#tray{
-   padding: 0px 8px 0px 5px;
-   margin: 0px 5px 0px 5px;
+#network, #temperature, #backlight, #pulseaudio, #battery, #clock {
+    padding: 0px;
 }
 
+#network {
+    color: #689d6a; /* Gruvbox aqua/cyan */
+}
+
+#temperature {
+    color: #d79921; /* Gruvbox yellow */
+}
+
+#backlight {
+    color: #b16286; /* Gruvbox purple */
+}
+
+#pulseaudio {
+    color: #458588; /* Gruvbox blue */
+}
+
+#battery {
+    color: #98971a; /* Gruvbox green */
+}
+
+#clock {
+    color: #d65d0e; /* Gruvbox orange */
+}
+
+#tray {
+    padding: 0px 8px;
+    margin: 0px 5px;
+}
 
 #battery.critical {
-   color: #ff5555;
+    color: #cc241d; /* Gruvbox red */
 }
-
 
 #network.disconnected {
-    color: #ff5555;
+    color: #cc241d; /* Gruvbox red */
 }
-
-
 

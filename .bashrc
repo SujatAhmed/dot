@@ -13,6 +13,8 @@ export MOZ_ENABLE_WAYLAND=1
 eval "$(zoxide init bash)"
 eval "$(starship init bash)"
 
+set -o vi
+
 alias m="mpv --hwdec=auto-safe"
 alias mu="mpv --no-audio-display"
 alias ls='ls --color=auto'

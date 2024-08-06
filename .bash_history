@@ -1,68 +1,3 @@
-mkdir language 
-ls
-mv Jane\ Wightwick_\ Mahmoud\ Gaafar\ -\ Mastering\ Arabic\ 1\ \(2024\,\ Bloomsbury\ Publishing\)\ -\ libgen.li.pdf language
-ls
-syncthing
-.local/bin/wrappedh1 
-poweroff
-sudo pacman -S zoxide 
-nvim .bashrc
-source .bashrc
-z core
-z core/media/books
-z
-z ~/core/media/books
-z
-z books
-ls
-z media
-cd
-z core media
-z ~/core/media
-z
-z media
-z 
-echo $XDG_DATA_HOME
-z core dwl
-z core/dwl
-z 
-z dwl
-z
-where awk
-sudo pacman -S gawk
-git clone --recursive --depth 1 --shallow-submodules https://github.com/akinomyoga/ble.sh.git
-make -C ble.sh install PREFIX=~/.local
-echo 'source ~/.local/share/blesh/ble.sh' >> ~/.bashrc
-sudo pacman -Syu
-z /
-z books
-z core media
-z books
-z 
-nvim .bashrc
-ls
-rm -rf ble.sh/ 
-ls
-rm -rf Sync 
-sudo pacman -S starship 
-nvim .bashrc
-z books
-~
-z ~
-z books
-timedatectl 
-systemctl enable timedatectl 
-timedatectl status 
-sudo systemctl enable systemd-timesyncd.service
-sudo systemctl start systemd-timesyncd.service
-timedatectl status 
-nvim .bashrc
-sudo pacman -S mpv
-ls 
-z 
-ls
-z books
-ls
 z lan
 z langua
 z language 
@@ -498,3 +433,68 @@ starship preset nerd-font-symbols -o ~/.config/starship.toml
 ls 
 z 
 z .cfg
+z .local/bin 
+z .local/
+ls 
+ls 
+z 
+z 
+z .cfg 
+l 
+git add . && git commit -m "dunno"
+git config --global user.email "sujatahmed842002@gmail.com"
+git config --global user.name "sujat"
+git add . && git commit -m "dunno"
+lsblk 
+l 
+sudo pacman -S libva-mesa-driver
+ls
+z .cfg 
+z .config/
+ls
+cd wofi 
+ls
+nvim style.css
+hyprctl dispatch exit
+z dwl 
+ls
+unzip Lekton.zip -d ~/.local/share/fonts/
+hyprctl dispatch exit
+ls
+sudo pacman -Syu
+journalctl | grep nvme 
+lsblk
+sudo fsck /dev/nvme0n1p1
+ls
+sudo systemctl enable bluetooth.service
+sudo systemctl start  bluetooth.service
+hyprctl dispatch exit
+sudo pacman -S brightnessctl 
+sudo pacman -S fzf
+sudo pacman -S ripgrep
+z con
+z
+z fonts
+sudo pacman -Syu 
+complete -r 
+z dwl
+ls 
+tar -xzxf monochrome-sddm.tar.gz 
+ls
+sudo mv monochrome /usr/share/sddm/themes/
+sudo nvim /usr/lib/sddm/sddm.conf.d/default.conf 
+hyprctl dispatch exit
+echo $WAYLAND_DISPLAY 
+echo $DISPLAY 
+ps -e | grep -E 'Xorg|wayland'
+loginctl show-session $(loginctl | grep $(whoami) | awk '{print $1}') -p Type
+echo $XDG_SESSION_TYPE
+hyprctl dispatch exit
+sudo pacman -Syu 
+nvim ~/.config/waybar/config 
+hyprctl dispatch exit
+ping www.youtube.com
+nmtui
+hyprctl dispatch exit
+hyprctl dispatch exit
+hyprctl dispatch exit
