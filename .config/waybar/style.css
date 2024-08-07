@@ -31,13 +31,13 @@ window#waybar {
 #workspaces button {
     padding: 0px;
     min-width: 1px;
-    background-color: #3c3836; /* Muted background */
-    color: #bdae93; /* Muted foreground */
+    background-color: #3c3836; /* Different background */
+    color: #d79921; /* Gruvbox yellow */
 }
 
 #workspaces button.focused { 
     padding: 0px;
-    background-color: #504945; /* Muted blue for focused */
+    background-color: #458588; /* Gruvbox blue */
     color: #ebdbb2;
 }
 

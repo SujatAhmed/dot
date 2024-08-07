@@ -1,14 +1,3 @@
-z
-z books 
-z
-z test books
-z 
-rm -rf test
-ls
-.local/bin/wrappedh1 
-z dwl
-ls
-z core
 ls
 z
 sudo pacman -Rns starship
@@ -498,3 +487,14 @@ cat ~/.ssh/id_ed25519.pub
 nvim ~/.ssh/id_ed25519.pub
 ssh -T git@github.com 
 git push origin main 
+z .cfg 
+git push origin main 
+ssh -T git@github.com 
+git reomote -v
+git remote -v
+git remote set-url origin git@github.com:SujatAhmed/sujat-dotfiles.git
+git push origin main 
+git add . && git commit -m "made changes to waybar"
+git push origin main 
+hyprctl dispatch exit
+hyprctl dispatch exit
