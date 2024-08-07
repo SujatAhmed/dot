@@ -1,29 +1,3 @@
-ls
-z
-sudo pacman -Rns starship
-nvim .bashrc
-sudo pacman -S starship 
-nvim .bashrc
-z .cfg
-git add . && git commit -m "starship and ble.sh added"
-git push origin main 
-z
-z books 
-ls
-fsck /dev/nvme0n1p3
-lsblk
-sudo umount /dev/nvme0n1p3
-sudo nvme id-ctrl /dev/nvme[0-9]
-z wc22/
-z
-rm -rf wc22
-ls
-ls
-ls -a
-mv *bash* .cfg 
-mv *.bash* .cfg 
-mv .bash_history .bash_profile .bash_logout .bashrc .cfg
-z .cfg
 stow .
 git add . && git commit -m "added all the bash stuff"
 git push origin main 
@@ -497,4 +471,30 @@ git push origin main
 git add . && git commit -m "made changes to waybar"
 git push origin main 
 hyprctl dispatch exit
+hyprctl dispatch exit
+z .cfg 
+git add . && git commit -m "made changes to waybar"
+git push origin main 
+hyprctl dispatch exit
+hyprctl dispatch exit
+nvim
+hyprctl dispatch exit
+hyprctl dispatch exit
+hyprctl dispatch exit
+nvim
+hyprctl dispatch exit
+hyprctl dispatch exit
+hyprctl dispatch exit
+hyprctl dispatch exit
+hyprctl dispatch exit
+z .config
+ls
+sudo pacman -S powertop 
+z wireplumber
+ls
+ls
+nvim 10-disable-camera.conf 
+sudo powertop
+sudo powertop
+lspci
 hyprctl dispatch exit

@@ -32,7 +32,7 @@ window#waybar {
     padding: 0px;
     min-width: 1px;
     background-color: #3c3836; /* Different background */
-    color: #d79921; /* Gruvbox yellow */
+    color: #ffe4b5; /* Gruvbox yellow */
 }
 
 #workspaces button.focused { 
