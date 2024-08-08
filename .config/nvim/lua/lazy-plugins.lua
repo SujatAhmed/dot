@@ -145,9 +145,9 @@ require('lazy').setup({
 
   {
     -- Theme inspired by Atom
-    "rebelot/kanagawa.nvim",
+    "ellisonleao/gruvbox.nvim",
     config = function()
-      vim.cmd("colorscheme kanagawa-wave")
+      vim.cmd("colorscheme gruvbox")
     end,
   },
 

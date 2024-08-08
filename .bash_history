@@ -1,30 +1,3 @@
-stow .
-git add . && git commit -m "added all the bash stuff"
-git push origin main 
-z
-ls
-ls -a 
-nvim .zshrc 
-ls
-cd 
-rm -rf .zshrc  
-z .cfg
-ls
-ls -a 
-rm -rf .zshrc  
-git add . && git commit -m "removed zsh stuff"
-git push origin main 
-z
-ls 
-ls -a
-nvim .bashrc
-z .cfg
-z .config/
-mkdir starship.toml
-z
-z .cfg
-stow .
-z .config/
 ls
 rm -rf starship.toml/
 touch starship.toml
@@ -498,3 +471,30 @@ sudo powertop
 sudo powertop
 lspci
 hyprctl dispatch exit
+z .config
+git add . && git commit -m "made changes to waybar" && git push origin main 
+git add . && git commit -m "made changes to waybar" && git push origin main 
+git add . && git commit -m "made changes to waybar" 
+z .cfg
+git add . && git commit -m "made changes to waybar" && git push origin main 
+z dwl
+sudo unzip Gruvbox-Dark-Soft-B-MB.zip -d /usr/share/themes/
+z dwl 
+sudo unzip Gruvbox-Dark-B-MB.zip -d /usr/share/themes
+hyprctl dispatch exit
+sudo pacman -S thunar
+sudo pacman -S sxiv
+sudo pacman -S nsxiv
+lsblk
+sudo mount /dev/sda1 /mnt
+sudo pacman -Syu 
+hyprctl dispatch exit
+nsxiv wallpapers
+nvim
+nvim 
+nvim
+nvim
+sudo pacman -S ripgrep
+nvim
+z nvim
+nvim 
