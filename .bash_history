@@ -1,25 +1,3 @@
-ls
-rm -rf starship.toml/
-touch starship.toml
-z .. 
-stow .
-z 
-starship preset jetpack -o ~/.config/starship.toml
-ls
-z .cfg
-z starship.toml
-z .config 
-ls 
-nvim starship.toml 
-ls
-starship preset tokyo-night -o ~/.config/starship.toml
-ls
-z
-nvim
-ls
-z .cfg
-ls
-git add . && git commit -m "updated the starship prompt"
 z
 z .cfg
 nvim .bashrc
@@ -498,3 +476,25 @@ sudo pacman -S ripgrep
 nvim
 z nvim
 nvim 
+z .cfg
+git add . && git commit -m "made the thing look like gruvbox" && git push origin main 
+hyprctl dispatch exit
+hyprland
+Hyprland
+Hyprland
+Hyprland
+Hyprland
+Hyprland
+hyprctl dispatch exit
+git clone git@github.com:SujatAhmed/cse215-summer-23.git
+z cse215-summer-23/
+nvim 
+ls
+git clone git@github.com:SujatAhmed/cse215-final-project-2231177.git
+z cse215-final-project-2231177/
+ls
+nvim 
+z .. 
+ls
+rm -rf *cse* 
+ls

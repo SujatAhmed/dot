@@ -145,9 +145,11 @@ require('lazy').setup({
 
   {
     -- Theme inspired by Atom
-    "ellisonleao/gruvbox.nvim",
+    "sainnhe/gruvbox-material",
     config = function()
-      vim.cmd("colorscheme gruvbox")
+      vim.g.gruvbox_material_background = 'medium'
+      vim.g.gruvbox_material_foreground = 'hard'
+      vim.cmd("colorscheme gruvbox-material")
     end,
   },
 
