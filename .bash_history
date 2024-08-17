@@ -1,8 +1,3 @@
-sudo nvim /etc/sudoers
-ls
-mv sutdown.sh shutdown.sh
-ls
-chmod +x shutdown.sh 
 nvim shutdown.sh 
 nvim restart.sh 
 sudo nvim /etc/sudoers
@@ -498,3 +493,8 @@ sudo nvim /usr/lib/sddm/sddm.conf.d/default.conf
 z
 hyprctl dispatch exit 
 sudo pacman -S thunar 
+z sujat-dotfiles/
+git add . && git commit -m "on new machine" && git push origin main 
+systemctl start  bluetooth.service
+sudo pacman -S bluez-deprecated-tools
+hyprctl dispatch exit 
