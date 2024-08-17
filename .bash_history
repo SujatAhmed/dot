@@ -1,91 +1,3 @@
-z
-z .cfg
-nvim .bashrc
-l
-nvim .bashrc
-l
-nvim .bashrc
-source .bashrc
-l
-ls
-l
-sudo pacman -Syu 
-sudo pacman -S xdg-desktop-portal-hyprland
-z .local/bin
-l
-nvim optmization 
-nvim wrappedh1 
-nvim 
-sudo pacman -S hyrlock
-sudo pacman -S hyprlock
-hyprlock
-x hyprlock
-z .config/hypr
-z ~/.config/hypr
-ls
-touch hyprlock.conf
-hyprlock
-nvim hyprlock.conf 
-hyprlock
-hyprlock
-z dwl
-ls
-z core
-l
-z media
-mkdir wallpapers
-z 
-z dwl
-ls
-l
-mv wallhaven-p9zql9_3840x2160.png ~/core/media/wallpapers/
-mv wallhaven-3lv9z6_3840x2160.png ~/core/media/wallpapers
-sudo pacman -S hypridle
-z hypr
-ls
-..
-z .cfg hypr
-z .cfg .config
-l
-z hypr 
-l 
-touch hypridle.conf
-nvim hypridle.conf 
-z
-z .cfg
-ls
-stow .
-git add . && git commit -m "added hyprlcok and hypridle"
-git push origin main 
-ls
-l 
-z dwl
-ls
-mv wallhaven-vqjg95_1920x1080.png ~/core/media/wallpapers
-whoami
-z scripts
-ls
-/home/sujat/
-z /home/sujat/
-sudo visudo EDITOR=nvim
-sudo visudo
-reboot.sh 
-z scripts
-reboot.sh 
-ls
-poweroff.sh
-mv poweorff.sh sutdown.sh
-mv reboot.sh restart.sh
-l
-visudo 
-sudo nvim /etc/sudoers
-z scripts
-ls
-nvim re
-ls
-nvim restart.sh 
-nvim restart.sh 
-nvim sutdown.sh 
 sudo nvim /etc/sudoers
 ls
 mv sutdown.sh shutdown.sh
@@ -498,3 +410,91 @@ z ..
 ls
 rm -rf *cse* 
 ls
+cd sujat-dotfiles/
+vim .bashrc
+cd ..
+ls
+rm -rf ~/.config/hypr 
+ls
+cd sujat-dotfiles/
+stow .
+cd ..
+ls
+ls -a 
+rm .bash_history 
+cd ~/sujat-dotfiles/
+stow .
+firefox
+ls
+sudo pacman -S waybar
+hyprctl dispatch exit
+sudo pacman -S Hyprland qt6 
+sudo pacman -S hyprland qt6 
+sudo pacman -S hyprland
+sudo pacman -S wl-clipboard
+sudo pacman -S cliphist 
+sudo pacman -S slurp 
+git config --global user.name "Sujat Ahmed"
+git config --global user.email "sujatahmed842002@gmail.com"
+ssh-keygen -t ed25519 -C "sujatahmed842002@gmail.com"
+eval "$(ssh-agent -s)"
+sudo pacman -S firefox 
+Hyprland
+sudo pacman -S kitty
+Hyprland
+Hyprland
+ls 
+cd core/dwl
+ls
+cd ~/.local/share
+ls
+mkdir fonts
+uzip 
+sudo pacman -S uzip 
+sudo pacman -S unzip 
+uzip 
+unzip 
+clear 
+unzip ~/core/dwl/JetBrainsMono.zip -d ~/.local/share/fonts
+hyprctl dispatch exit 
+ sudo pacman -S wofi 
+sudo pacman -S starship
+sudo pacman -S zoxide
+z 
+sudo pacman -S neovim 
+sudo pacman -S npm 
+sudo pacman -S neovim
+nvim .bashrc
+sudo pacman -S hyprpaper 
+sudo pacman -S hyprlock hypridle 
+sudo pacman -S pavucontrol 
+Hyprland
+Hyprland
+Hyprland
+sudo pacman -S brightnessctl 
+git clone --recursive --depth 1 --shallow-submodules https://github.com/akinomyoga/ble.sh.git
+make -C ble.sh install PREFIX=~/.local
+nvim .bashrc
+nmtui
+sudo pacman -S nwg-look
+systemctl enable bluetooth.service
+sudo pacman -S bluez bluez-utils
+systemctl enable bluetooth.service
+sudo pacman -S blueberry 
+sudo unzip ~/core/dwl/Gruvbox-Dark-B-MB.zip -d /usr/share/themes/
+sudo tar -xzf ~/core/dwl/papirus-icon-theme-20240501.tar.gz -C /usr/share/icons/
+sudo pacman -S libva intel-media-driver ffmpeg 
+sudo pacman -S libva-utils 
+vainfo
+sudo pacman -S nvtop
+htop
+Hyprland
+Hyprland
+sudo systemctl start sddm.service
+hyprctl dispatch exit 
+z /usr/share/sddm/themes
+ls
+sudo nvim /usr/lib/sddm/sddm.conf.d/default.conf 
+z
+hyprctl dispatch exit 
+sudo pacman -S thunar 
