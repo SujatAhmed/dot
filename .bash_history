@@ -1,138 +1,3 @@
-nvim shutdown.sh 
-nvim restart.sh 
-sudo nvim /etc/sudoers
-nvim
-sudo pacman -S zathura 
-sudo nvim /etc/default/grub 
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-z .cfg
-git add . && git commit -m "added hyprlcok and hypridle"
-git push origin main 
-nvme-cli
-nvme 
-nvme get-feature /dev/nvme0n1
-sudo nvme get-feature /dev/nvme0n1
-fstrim -v /
-sudo fstrim -v /
-sudo pacman -S kdeconnect
-journalctl | grep nvme
-touch journal.txt
-journalctl | grep nvme > journal.txt 
-nvim journal.txt 
-dmesg | grep nvme
-sudo dmesg | grep nvme
-nvme smart-log /dev/nvme0n1
-sudo nvme smart-log /dev/nvme0n1
-sudo nvme smart-log -H /dev/nvme0n1
-sudo nvim /etc/default/grub 
-lsblk
-sudo dd if=~/core/dwl/linuxmint-22-cinnamon-64bit.iso of=/dev/sdb bs=2M
-sudo dd if=~/core/dwl/linuxmint-22-cinnamon-64bit.iso of=/dev/sdb bs=2M status=progress
-lsblk
-lsblk
-lsblk
-sudo dd if=~/core/dwl/linuxmint-22-cinnamon-64bit.iso of=/dev/sdb bs=2M status=progress
-ls
-lsblk
-sudo pacman -S thunar
-lsblk
-journalctl | grep nvme 
-journalctl | grep nvme 
-journalctl | grep nvme > journal.txt 
-z core
-ls
-lsblk
-sudo nvim /etc/default/grub 
-z dwl
-./balena-etcher 
-sudo dd if=~/core/dwl/linuxmint-22-cinnamon-64bit.iso of=/dev/sdb bs=2M status=progress
-sudo dd if=~/linuxmint-22-cinnamon-64bit.iso of=/dev/sdb bs=2M status=progress
-cat /proc/meminfo
-cat /proc/meminfo
-cat /proc/meminfo
-cat /proc/meminfo | grep dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-cat /proc/meminfo | grep Dirty
-z .cfg
-git add . && git commit -m "dunno"
-git push origin main 
-ls -a 
-cd 
-cd .cfg 
-ls-a
-ls -a 
-cd
-rm -rf *bash*
-cd
-cd
-ls -a
-rm .bashrc
-ls
-ls -a
-rm .bash_history 
-rm .bash_logout 
-rm .bash_profile 
-ls
-ls -a 
-rm -rf ~/.config/hypr 
-cd .cfg 
-stow .
-nvim 
-sudo pacman -S stow
-sudo pacman -S wofi waybar 
-sudo pacman -S hypridle hyprlock
-sudo pacman -S alacirtty 
-sudo pacman -S alacritty
-git clone https://github.com/SujatAhmed/sujat-dotfiles.git
-ls -a 
-mv sujat-dotfiles .cfg
-ls
-cd Downloads/
-ls
 cd ~/.local/share
 ls
 mkdir fonts
@@ -498,3 +363,138 @@ git add . && git commit -m "on new machine" && git push origin main
 systemctl start  bluetooth.service
 sudo pacman -S bluez-deprecated-tools
 hyprctl dispatch exit 
+z sujat-dotfiles/
+git add . && git commit -m "added a window finder script" && git push origin main 
+sudo pacman -S qbittorrent
+sudo pacman -S syncthing 
+z core
+z media
+ls
+z ..
+ls 
+rm -rf media 
+z media
+ls
+z music 
+ls 
+ls
+z ..
+z books
+ls
+z 
+z books
+ls
+z 
+z music
+ls
+z media
+z dwl
+syncthingg 
+syncthing
+syncthing
+syncthing
+syncthing
+sudo pacman -S fastfetch
+fastfetch 
+fastfetch 
+sudo pacman -S zathura
+sudo pacman -S zathura-djvu zathura-pdf* zathura-ps
+sudo pacman -S zathura-djvu zathura-pdf-poppler zathura-pdf-mupdf zathura-ps
+sudo pacman -S zathura-djvu zathura-pdf-poppler zathura-ps
+sudo pacman -Syu
+z books 
+zathura maths/'Gilbert Strang - Linear Algebra And Learning from Data 1 (2019, Wesley-Cambridge Press) - libgen.li.pdf' 
+zathura maths/'Gilbert Strang - Linear Algebra and Learning from Data (2019, Wellesley-Cambridge Press) - libgen.li.pdf' 
+sudo pacman -S palemoon
+sudo pacman -S pale-moon
+sudo pacman -Ss pale 
+sudo pacman -S qutebrowser
+nvtop
+htop
+sudo pacman -Rns qutebrowser
+sudo pacman -S waterfox
+sudo pacman -S falkon 
+sudo pacman -Rns falkon 
+sudo pacman -Rns falkon 
+lsblk
+fsck /dev/nvme0n1
+sudo fsck /dev/nvme0n1
+swapon --show
+systemctl hibernate
+blkid
+blkid
+lsblk
+swapon --show
+cfdisk
+sudo cfsidk 
+sudo cfdisk 
+sudo pacman -S gparted
+gparted 
+sudo gparted 
+pkexec gparted
+sudo pacman -Rns gparted
+ls -lh /swapfile
+sudo filefrag -v /swapfile | grep "0:" | awk 'print $4'
+sudo nvim /etc/default/grub 
+sudo nvim /etc/mke2fs.conf 
+sudo nvim /etc/mkinitcpio.conf 
+sudo /etc/fstab 
+sudo nvim /etc/fstab 
+sudo swapoff /swapfile
+sudo rm -rf /swapfile 
+sudo grub-mkconfig -o /boot/grub/grub.cfg 
+sudo mkinitcpio -P 
+systemctl hibernate
+sudo filefrag -v /swapfile | grep "0:" | awk '{print $4}'
+sudo filefrag -v /swapfile | grep "0:" | awk '{print $4}'
+sudo filefrag -v /swapfile | grep "0:" | awk '{print $4}'
+sudo filefrag -v /swapfile | grep "0:" | awk '{print $4}'
+sudo filefrag -v /swapfile | grep "0:" | awk '{print $4}'
+sudo filefrag -v /swapfile | grep "0:" | awk '{print $4}'
+sudo nvim /etc/initcpio/
+sudo nvim /etc/initcpio/
+sudo nvim /etc/mkinitcpio.conf 
+swapon --show
+mkswap -U clear --size 4G --file /swapfile
+sudo mkswap -U clear --size 4G --file /swapfile
+swapon --show
+swapoff /swapfile 
+sudo swapoff /swapfile 
+z /
+ls
+sudo swapoff /swapfile 
+rm -rf /swapfile 
+sudo rm -rf /swapfile 
+ls
+z 
+swapon --show
+sudo nvim /etc/mkinitcpio.conf 
+sudo nvim /etc/default/grub 
+sudo nvim /etc/mkinitcpio.conf 
+sudo nvim /etc/fstab 
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo mkinitcpio -P
+systemctl hibernate
+mkswap -U clear --size 4G --file /swapfile
+sudo mkswap -U clear --size 4G --file /swapfile
+sudo swapoff /swapfile 
+sudo rm -rf /swapfile 
+sudo mkswap -U clear --size 8G --file /swapfile
+swapon /swapfile 
+sudo swapon /swapfile 
+sudo nvim /etc/fstab 
+swapon --show
+filefrag -v /swapfile 
+sudo filefrag -v /swapfile 
+blkid 
+ls -l /dev/sda2
+blkid /dev/sda2
+blkid /dev/sda2
+blkid --help
+sudo blkid /dev/sda2
+sudo blkid /dev/sda
+sudo filefrag -v /swapfile 
+sudo filefrag -v swap_file | awk '$1=="0:" {print substr($4, 1, length($4)-2)}'
+sudo filefrag -v /swapfile | awk '$1=="0:" {print substr($4, 1, length($4)-2)}'
+systemctl hibernate
+nvim ~/.config/scripts/shutdown.sh 
