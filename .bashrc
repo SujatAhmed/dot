@@ -20,4 +20,5 @@ alias mu="mpv --no-audio-display"
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 alias l='ls -a'
+alias n='nvim'
 source ~/.local/share/blesh/ble.sh

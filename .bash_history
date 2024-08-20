@@ -1,8 +1,3 @@
-cd ~/.local/share
-ls
-mkdir fonts
-cd fonts 
-mkdir jetbrains 
 cd
 cd Downloads/
 ls
@@ -498,3 +493,8 @@ sudo filefrag -v swap_file | awk '$1=="0:" {print substr($4, 1, length($4)-2)}'
 sudo filefrag -v /swapfile | awk '$1=="0:" {print substr($4, 1, length($4)-2)}'
 systemctl hibernate
 nvim ~/.config/scripts/shutdown.sh 
+z sujat-dotfiles/
+git add . && git commit -m "made some changes to hyprlock" && git push origin main 
+nvim .bashrc
+n 
+source ~/.bashrc
