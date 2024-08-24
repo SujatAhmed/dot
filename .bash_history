@@ -1,56 +1,3 @@
-hyprctl dispatch exit
-hyprctl dispatch exit
-nvim
-hyprctl dispatch exit
-hyprctl dispatch exit
-hyprctl dispatch exit
-nvim
-hyprctl dispatch exit
-hyprctl dispatch exit
-hyprctl dispatch exit
-hyprctl dispatch exit
-hyprctl dispatch exit
-z .config
-ls
-sudo pacman -S powertop 
-z wireplumber
-ls
-ls
-nvim 10-disable-camera.conf 
-sudo powertop
-sudo powertop
-lspci
-hyprctl dispatch exit
-z .config
-git add . && git commit -m "made changes to waybar" && git push origin main 
-git add . && git commit -m "made changes to waybar" && git push origin main 
-git add . && git commit -m "made changes to waybar" 
-z .cfg
-git add . && git commit -m "made changes to waybar" && git push origin main 
-z dwl
-sudo unzip Gruvbox-Dark-Soft-B-MB.zip -d /usr/share/themes/
-z dwl 
-sudo unzip Gruvbox-Dark-B-MB.zip -d /usr/share/themes
-hyprctl dispatch exit
-sudo pacman -S thunar
-sudo pacman -S sxiv
-sudo pacman -S nsxiv
-lsblk
-sudo mount /dev/sda1 /mnt
-sudo pacman -Syu 
-hyprctl dispatch exit
-nsxiv wallpapers
-nvim
-nvim 
-nvim
-nvim
-sudo pacman -S ripgrep
-nvim
-z nvim
-nvim 
-z .cfg
-git add . && git commit -m "made the thing look like gruvbox" && git push origin main 
-hyprctl dispatch exit
 hyprland
 Hyprland
 Hyprland
@@ -498,3 +445,56 @@ n .bashrc
 n .inputrc
 bind -f ~/.inputrc 
 sudo pacman -S pet 
+z sujat-dotfiles/
+git add . && git commit -m "removed blesh for more simple tools"
+git push origin main 
+pet 
+sudo pacman -S pet
+z dwl 
+sudo pacman -S pet_0.9.0_darwin_amd64.tar.gz pet_0.9.0_darwin_amd64.tar.gz 
+sudo pacman -Syu 
+sudo pacman -S ripgrep 
+n .bashrc
+n .inputrc 
+bind -f ~/.inputrc
+bind -f ~/.inputrc
+n .bashrc
+n .bashrc
+n .inputrc 
+sudo nvim ~/etc/inputrc
+sudo nvim /etc/inputrc
+sudo nvim ~/etc/inputrc
+sudo nvim /etc/inputrc
+sudo pacman -S kvantum
+sudo pacman -Rns kvantum
+z hypr
+n hyprland.conf 
+mkdir -p $GOPATH/src/github.com/knqyf263
+cd $GOPATH/src/github.com/knqyf263
+git clone https://github.com/knqyf263/pet.git
+cd pet
+make install
+sudo pacman -S go
+z ..
+ls
+rm -rf pet
+clear
+mkdir -p $GOPATH/src/github.com/knqyf263
+cd $GOPATH/src/github.com/knqyf263
+git clone https://github.com/knqyf263/pet.git
+cd pet
+make install
+z ..
+pet 
+ls 
+rm -rf go 
+sudo rm -rf go 
+clear 
+ls
+n .bashrc
+z nvim
+z ~/.config/nvim
+n 
+htop
+pet search
+pet search
