@@ -1,198 +1,3 @@
-cd
-cd Downloads/
-ls
-unzip JetBrainsMono.zip ~/.local/share/fonts/jetbrains/
-uzip JetBrainsMono.zip ~/.local/share/fonts/jetbrains/
-sudo pacman -S unzip
-uzip JetBrainsMono.zip ~/.local/share/fonts/jetbrains/
-unzip JetBrainsMono.zip ~/.local/share/fonts/jetbrains/
-unzip JetBrainsMono.zip -d ~/.local/share/fonts/jetbrains/
-cd 
-cd .cfg 
-stow .
-cd
-ls -a 
-cd .cfg 
-ls
-ls -a
-nvim 
-nvim 
-reboot
-Qudsahd
-sudo pacman -S firefox
-nmtui
-sudo pacman -S firefox
-lsblk
-firefox
-nvim 
-nvim 
-sudo pacman -Rns nvim 
-sudo pacman -R neovim
-sudo pacman -S zoxide
-sudo pacman -S npm 
-sudo pacman -S npm 
-sudo pacman -R nvim 
-sudo pacman -Rns neovim 
-rm -rf ~/.local/share/nvim
-cd
-sudo pacman -S neovim
-nvim
-sudo pacman -S starship
-vim
-sudo vim /etc/pacman.d/mirrorlist
-sudo pacman -S wl-clipboard
-sudo pacman -S zoxide
-z 
-rm -rf ~/.local/share/nvim
-nvim
-z 
-nvim .bashrc
-git clone --recursive --depth 1 --shallow-submodules https://github.com/akinomyoga/ble.sh.git
-make -C ble.sh install PREFIX=~/.local
-echo 'source ~/.local/share/blesh/ble.sh' >> ~/.bashrc
-ls
-rm -rf Downloads/
-ls
-z core
-ls
-z 
-rm -rf ble.sh/ 
-l
-sudo nvim /etc/pacman.d/mirrorlist 
-sudo pacman -S wl-paste
-sudo pacman -S cliphist
-sudo pacman -S pavucontrol
-l
-nvim ~/.config/hypr/hypridle.conf 
-nvim ~/.config/hypr/hyprlock.conf 
-sudo pacman -S hyprpaper 
-sudo pacman -S nwg-look
-z dwl
-z core/dw;
-z core/dwl
-ls
-sudo unzip Material-Black-Blueberry-2.9.9-07.zip -d /usr/share/themes/
-z dwl 
-ls 
-sudo tar -xzf papirus-icon-theme-20240501.tar.gz -C /usr/share/icons/
-sudo pacman -S libva intel-mesa-driver ffmepeg 
-sudo pacman -S libva intel-mesa-driver ffmpeg 
-sudo pacman -S libva intel-media-driver ffmpeg 
-journalctl | grep nvme 
-sudo dmesg | grep nvme
-sudo pacman -S mpv 
-vainfo
-sudo pacan -S libva-utils
-sudo pacman -S libva-utils
-vainfo
-mv ~/core/dwl/wallhaven-85mqwy_3840x2160.png ~/wallpapers
-nvim ~/.config/hypr/hyprpaper.conf 
-sudo systemctl enable bluetoothctl 
-sudo pacman -S blueberry 
-starship preset nerd-font-symbols -o ~/.config/starship.toml
-ls 
-z 
-z .cfg
-z .local/bin 
-z .local/
-ls 
-ls 
-z 
-z 
-z .cfg 
-l 
-git add . && git commit -m "dunno"
-git config --global user.email "sujatahmed842002@gmail.com"
-git config --global user.name "sujat"
-git add . && git commit -m "dunno"
-lsblk 
-l 
-sudo pacman -S libva-mesa-driver
-ls
-z .cfg 
-z .config/
-ls
-cd wofi 
-ls
-nvim style.css
-hyprctl dispatch exit
-z dwl 
-ls
-unzip Lekton.zip -d ~/.local/share/fonts/
-hyprctl dispatch exit
-ls
-sudo pacman -Syu
-journalctl | grep nvme 
-lsblk
-sudo fsck /dev/nvme0n1p1
-ls
-sudo systemctl enable bluetooth.service
-sudo systemctl start  bluetooth.service
-hyprctl dispatch exit
-sudo pacman -S brightnessctl 
-sudo pacman -S fzf
-sudo pacman -S ripgrep
-z con
-z
-z fonts
-sudo pacman -Syu 
-complete -r 
-z dwl
-ls 
-tar -xzxf monochrome-sddm.tar.gz 
-ls
-sudo mv monochrome /usr/share/sddm/themes/
-sudo nvim /usr/lib/sddm/sddm.conf.d/default.conf 
-hyprctl dispatch exit
-echo $WAYLAND_DISPLAY 
-echo $DISPLAY 
-ps -e | grep -E 'Xorg|wayland'
-loginctl show-session $(loginctl | grep $(whoami) | awk '{print $1}') -p Type
-echo $XDG_SESSION_TYPE
-hyprctl dispatch exit
-sudo pacman -Syu 
-nvim ~/.config/waybar/config 
-hyprctl dispatch exit
-ping www.youtube.com
-nmtui
-hyprctl dispatch exit
-hyprctl dispatch exit
-hyprctl dispatch exit
-.cfg 
-z .cfg
-ls
-git add . && git commit -m "made changes to waybar"
-ssh-keygen -t ed25519 -C "sujatahmed842002@gmail.com"
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_ed25519 
-cat ~/.ssh/id_ed25519.pub
-git push origin main 
-ssh -T git@github.com 
-git push origin main 
-z . 
-z ..
-ls
-z .cfg 
-git push origin main 
-cat ~/.ssh/id_ed25519
-cat ~/.ssh/id_ed25519.pub
-nvim ~/.ssh/id_ed25519.pub
-ssh -T git@github.com 
-git push origin main 
-z .cfg 
-git push origin main 
-ssh -T git@github.com 
-git reomote -v
-git remote -v
-git remote set-url origin git@github.com:SujatAhmed/sujat-dotfiles.git
-git push origin main 
-git add . && git commit -m "made changes to waybar"
-git push origin main 
-hyprctl dispatch exit
-hyprctl dispatch exit
-z .cfg 
-git add . && git commit -m "made changes to waybar"
-git push origin main 
 hyprctl dispatch exit
 hyprctl dispatch exit
 nvim
@@ -498,3 +303,198 @@ git add . && git commit -m "made some changes to hyprlock" && git push origin ma
 nvim .bashrc
 n 
 source ~/.bashrc
+z ~/.config 
+z hypr 
+nvim hypridle.conf 
+z
+z hypr
+z 
+z sujat-dotfiles/
+git add . && git commit -m "made some changes to hyprlock" && git push origin main 
+z media
+ls
+mkdir tvseries 
+z ..
+rm -rf tvseries 
+sudo pacman -S polkit
+sudo pacman -S polkit-gnome 
+sudo pacman -S gparted 
+gparted
+polkit-gnome 
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+gparted
+exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+kill 42011
+sudo pacman -Rns gparted
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+sudo gparted
+sudo gparted
+gparted
+sudo pacman -Rns gparted
+sudo pacman -S gparted 
+sudo pacman -S partitionmanager
+sudo partitionmanager
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+partitionmanager 
+z books 
+ls
+z maths
+ls
+sudo pacman -S mpv 
+z dwl 
+m 'House of Cards (US) - S01E01 - Chapter 1 Bluray-1080p.mkv' 
+z media
+ls
+mkdir tvseries 
+ls
+z dwl 
+mv *cards* ~/core/media/tvseries/
+mv *Cards* ~/core/media/tvseries/
+z media
+z tvseries
+z 
+z tvseries
+ls
+mkdir house-of-cards
+mv *Cards* house-of-cards/
+z house-of-cards/
+z
+z house-of-cards/
+z house-of-cards/
+z ~/core/media/tvseries/house-of-cards/
+z 
+house-of-cards
+z house-of-cards
+m 'House of Cards (US) - S01E02 - Chapter 2 Bluray-1080p.mkv' 
+z dwl 
+mv *Cards* house-of-cards/
+mv *Cards* ~/core/media/tvseries/house-of-cards/
+z house-of-cards
+m 'House of Cards (US) - S01E03 - Chapter 3 Bluray-1080p.mkv' 
+m 'House of Cards (US) - S01E03 - Chapter 3 Bluray-1080p.mkv' 
+m 'House of Cards (US) - S01E04 - Chapter 4 Bluray-1080p.jLcrM7dh.mkv.part' 
+z dwl 
+m 'House of Cards (US) - S01E04 - Chapter 4 Bluray-1080p(1).mkv' 
+m 'House of Cards (US) - S01E05 - Chapter 5 Bluray-1080p.mkv' 
+z dwl 
+rm *Cards*
+ls
+rm * 
+ls
+sudo pacman -Syu
+systemctl hybrid-sleep
+systemctl hybrid-sleep
+z house-of-cards
+z dwl 
+m 'House of Cards (US) - S01E09 - Chapter 9 Bluray-1080p.mkv' 
+z 'House of Cards (US) - S01E10 - Chapter 10 Bluray-1080p.mkv' 
+m 'House of Cards (US) - S01E10 - Chapter 10 Bluray-1080p.mkv' 
+m 'House of Cards (US) - S01E11 - Chapter 11 Bluray-1080p.mkv' 
+m 'House of Cards (US) - S01E12 - Chapter 12 Bluray-1080p.mkv' 
+m 'House of Cards (US) - S01E13 - Chapter 13 Bluray-1080p.mkv' 
+z dwl
+m 'House of Cards (US) - S02E01 - Chapter 14 WEBRip-1080p(1).mkv' 
+m 'House of Cards (US) - S02E02 - Chapter 15 WEBRip-1080p.mkv' 
+m 'House of Cards (US) - S02E02 - Chapter 15 WEBRip-1080p.mkv' 
+m 'House of Cards (US) - S02E02 - Chapter 15 WEBRip-1080p.sOYLEM3n.mkv.part' 
+systemctl hybrid-sleep
+systemctl hybrid-sleep
+m 'House of Cards (US) - S02E02 - Chapter 15 WEBRip-1080p.sOYLEM3n.mkv.part' 
+z dwl
+m 'House of Cards (US) - S02E02 - Chapter 15 WEBRip-1080p.sOYLEM3n.mkv.part' 
+m 'House of Cards (US) - S02E02 - Chapter 15 WEBRip-1080p.sOYLEM3n.mkv.part' 
+m 'House of Cards (US) - S02E02 - Chapter 15 WEBRip-1080p.mkv' 
+m 'House of Cards (US) - S02E02 - Chapter 15 WEBRip-1080p.mkv' 
+z dwl
+ls
+systemctl hibernate
+z dwl 
+ls
+m 'House of Cards (US) - S02E06 - Chapter 19 WEBRip-1080p.mkv' 
+m 'House of Cards (US) - S02E05 - Chapter 18 WEBRip-1080p.mkv' 
+m 'House of Cards (US) - S02E06 - Chapter 19 WEBRip-1080p.mkv' 
+m 'House of Cards (US) - S02E07 - Chapter 20 WEBRip-1080p.mkv' 
+m 'House of Cards (US) - S02E08 - Chapter 21 WEBRip-1080p.mkv' 
+m 'House of Cards (US) - S02E08 - Chapter 21 WEBRip-1080p.mkv' 
+m 'House of Cards (US) - S02E09 - Chapter 22 WEBRip-1080p.mkv' 
+m 'House of Cards (US) - S02E10 - Chapter 23 WEBRip-1080p(1).mkv' 
+m 'House of Cards (US) - S02E11 - Chapter 24 WEBRip-1080p.mkv' 
+m 'House of Cards (US) - S02E13 - Chapter 26 WEBRip-1080p.mkv' 
+rm *Cards*
+l
+ls
+hyprctl dispatch exit 
+systemctl hibernate
+ z media
+nvim ~/.inputrc
+nvim .bashrc
+source ~/.bashrc
+clear
+z 
+z media 
+clear
+z 
+n ~/.bashrc
+n .bashrc
+n .inputrc
+n .bashrc 
+source .bashrc
+clear
+ls 
+ls -a 
+n .inputrc
+n .bashrc
+n .bashrc
+echo $INPUTRC
+bind -f ~/.inputrc
+echo $INPUTRC
+n /etc/inputrc 
+n .bashrc
+n .inputrc
+n .bashrc
+exec bash
+ls 
+sudo pacman -S calibre 
+sudo pacman -Rns calibre
+ n /etc/inputrc 
+n .inputrc
+n .bashrc
+source .bashrc
+bind -f ~/.inputrc
+n .bashrc
+bind -q menu-complete
+n .inputrc
+source .bashrc
+n .bashrc
+sudo n /etc/inputrc 
+sudo nvim  /etc/inputrc 
+n .bashrc
+n ~/.local/share/blesh/ble.sh 
+n .bashrc
+z ~/.local/share/
+ls
+z blesh
+ls
+z .. 
+rm -rf blesh
+clear
+ls
+z
+clear
+ls
+rm -rf ble.sh/ Calibre\ Library/ 
+clear
+ls
+rm NTIyMzg\=.pdf NzI0MjM\=.pdf Sync/
+rm -rf NTIyMzg\=.pdf NzI0MjM\=.pdf Sync/
+ls
+n .inputrc 
+clear  
+n .inputrc 
+n .inputrc
+n .bahsrc
+n .bashrc 
+n .bashrc
+n .inputrc
+bind -f ~/.inputrc 
+sudo pacman -S pet 
