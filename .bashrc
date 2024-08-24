@@ -27,4 +27,6 @@ alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 alias l='ls -a'
 alias n='nvim'
+alias pe='pet exec'
+alias pn='pet new'
 

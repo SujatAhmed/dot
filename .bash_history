@@ -1,53 +1,3 @@
-hyprland
-Hyprland
-Hyprland
-Hyprland
-Hyprland
-Hyprland
-hyprctl dispatch exit
-git clone git@github.com:SujatAhmed/cse215-summer-23.git
-z cse215-summer-23/
-nvim 
-ls
-git clone git@github.com:SujatAhmed/cse215-final-project-2231177.git
-z cse215-final-project-2231177/
-ls
-nvim 
-z .. 
-ls
-rm -rf *cse* 
-ls
-cd sujat-dotfiles/
-vim .bashrc
-cd ..
-ls
-rm -rf ~/.config/hypr 
-ls
-cd sujat-dotfiles/
-stow .
-cd ..
-ls
-ls -a 
-rm .bash_history 
-cd ~/sujat-dotfiles/
-stow .
-firefox
-ls
-sudo pacman -S waybar
-hyprctl dispatch exit
-sudo pacman -S Hyprland qt6 
-sudo pacman -S hyprland qt6 
-sudo pacman -S hyprland
-sudo pacman -S wl-clipboard
-sudo pacman -S cliphist 
-sudo pacman -S slurp 
-git config --global user.name "Sujat Ahmed"
-git config --global user.email "sujatahmed842002@gmail.com"
-ssh-keygen -t ed25519 -C "sujatahmed842002@gmail.com"
-eval "$(ssh-agent -s)"
-sudo pacman -S firefox 
-Hyprland
-sudo pacman -S kitty
 Hyprland
 Hyprland
 ls 
@@ -498,3 +448,53 @@ n
 htop
 pet search
 pet search
+pet delete 
+pet 
+pet edit
+pet search
+pet new 
+pet exec
+z sujat-dotfiles/
+pet exec 
+pet exec 
+n .bashrc
+pe
+pe
+pn 
+pe
+pet 
+z $GOPATH
+ls
+where pet 
+which pet
+z ..
+z sujat
+clear
+ls
+rm -rf pet 
+clear 
+sudo pacman -S --needed base-devel
+git clone https://aur.archlinux.org/paru.git
+cd paru
+makepkg -si
+z ..
+rm -rf paru
+clear 
+paru -S pet-bin
+pet
+pet new 
+pet exec
+sudo pacman -S fzf
+pet exec
+pet
+pet clip 
+z core
+pet clip 
+pet 
+pet clip z core
+clear
+
+pet new pet
+pet new 
+pet list
+pet exec 
