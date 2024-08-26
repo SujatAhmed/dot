@@ -1,308 +1,3 @@
-Hyprland
-Hyprland
-ls 
-cd core/dwl
-ls
-cd ~/.local/share
-ls
-mkdir fonts
-uzip 
-sudo pacman -S uzip 
-sudo pacman -S unzip 
-uzip 
-unzip 
-clear 
-unzip ~/core/dwl/JetBrainsMono.zip -d ~/.local/share/fonts
-hyprctl dispatch exit 
- sudo pacman -S wofi 
-sudo pacman -S starship
-sudo pacman -S zoxide
-z 
-sudo pacman -S neovim 
-sudo pacman -S npm 
-sudo pacman -S neovim
-nvim .bashrc
-sudo pacman -S hyprpaper 
-sudo pacman -S hyprlock hypridle 
-sudo pacman -S pavucontrol 
-Hyprland
-Hyprland
-Hyprland
-sudo pacman -S brightnessctl 
-git clone --recursive --depth 1 --shallow-submodules https://github.com/akinomyoga/ble.sh.git
-make -C ble.sh install PREFIX=~/.local
-nvim .bashrc
-nmtui
-sudo pacman -S nwg-look
-systemctl enable bluetooth.service
-sudo pacman -S bluez bluez-utils
-systemctl enable bluetooth.service
-sudo pacman -S blueberry 
-sudo unzip ~/core/dwl/Gruvbox-Dark-B-MB.zip -d /usr/share/themes/
-sudo tar -xzf ~/core/dwl/papirus-icon-theme-20240501.tar.gz -C /usr/share/icons/
-sudo pacman -S libva intel-media-driver ffmpeg 
-sudo pacman -S libva-utils 
-vainfo
-sudo pacman -S nvtop
-htop
-Hyprland
-Hyprland
-sudo systemctl start sddm.service
-hyprctl dispatch exit 
-z /usr/share/sddm/themes
-ls
-sudo nvim /usr/lib/sddm/sddm.conf.d/default.conf 
-z
-hyprctl dispatch exit 
-sudo pacman -S thunar 
-z sujat-dotfiles/
-git add . && git commit -m "on new machine" && git push origin main 
-systemctl start  bluetooth.service
-sudo pacman -S bluez-deprecated-tools
-hyprctl dispatch exit 
-z sujat-dotfiles/
-git add . && git commit -m "added a window finder script" && git push origin main 
-sudo pacman -S qbittorrent
-sudo pacman -S syncthing 
-z core
-z media
-ls
-z ..
-ls 
-rm -rf media 
-z media
-ls
-z music 
-ls 
-ls
-z ..
-z books
-ls
-z 
-z books
-ls
-z 
-z music
-ls
-z media
-z dwl
-syncthingg 
-syncthing
-syncthing
-syncthing
-syncthing
-sudo pacman -S fastfetch
-fastfetch 
-fastfetch 
-sudo pacman -S zathura
-sudo pacman -S zathura-djvu zathura-pdf* zathura-ps
-sudo pacman -S zathura-djvu zathura-pdf-poppler zathura-pdf-mupdf zathura-ps
-sudo pacman -S zathura-djvu zathura-pdf-poppler zathura-ps
-sudo pacman -Syu
-z books 
-zathura maths/'Gilbert Strang - Linear Algebra And Learning from Data 1 (2019, Wesley-Cambridge Press) - libgen.li.pdf' 
-zathura maths/'Gilbert Strang - Linear Algebra and Learning from Data (2019, Wellesley-Cambridge Press) - libgen.li.pdf' 
-sudo pacman -S palemoon
-sudo pacman -S pale-moon
-sudo pacman -Ss pale 
-sudo pacman -S qutebrowser
-nvtop
-htop
-sudo pacman -Rns qutebrowser
-sudo pacman -S waterfox
-sudo pacman -S falkon 
-sudo pacman -Rns falkon 
-sudo pacman -Rns falkon 
-lsblk
-fsck /dev/nvme0n1
-sudo fsck /dev/nvme0n1
-swapon --show
-systemctl hibernate
-blkid
-blkid
-lsblk
-swapon --show
-cfdisk
-sudo cfsidk 
-sudo cfdisk 
-sudo pacman -S gparted
-gparted 
-sudo gparted 
-pkexec gparted
-sudo pacman -Rns gparted
-ls -lh /swapfile
-sudo filefrag -v /swapfile | grep "0:" | awk 'print $4'
-sudo nvim /etc/default/grub 
-sudo nvim /etc/mke2fs.conf 
-sudo nvim /etc/mkinitcpio.conf 
-sudo /etc/fstab 
-sudo nvim /etc/fstab 
-sudo swapoff /swapfile
-sudo rm -rf /swapfile 
-sudo grub-mkconfig -o /boot/grub/grub.cfg 
-sudo mkinitcpio -P 
-systemctl hibernate
-sudo filefrag -v /swapfile | grep "0:" | awk '{print $4}'
-sudo filefrag -v /swapfile | grep "0:" | awk '{print $4}'
-sudo filefrag -v /swapfile | grep "0:" | awk '{print $4}'
-sudo filefrag -v /swapfile | grep "0:" | awk '{print $4}'
-sudo filefrag -v /swapfile | grep "0:" | awk '{print $4}'
-sudo filefrag -v /swapfile | grep "0:" | awk '{print $4}'
-sudo nvim /etc/initcpio/
-sudo nvim /etc/initcpio/
-sudo nvim /etc/mkinitcpio.conf 
-swapon --show
-mkswap -U clear --size 4G --file /swapfile
-sudo mkswap -U clear --size 4G --file /swapfile
-swapon --show
-swapoff /swapfile 
-sudo swapoff /swapfile 
-z /
-ls
-sudo swapoff /swapfile 
-rm -rf /swapfile 
-sudo rm -rf /swapfile 
-ls
-z 
-swapon --show
-sudo nvim /etc/mkinitcpio.conf 
-sudo nvim /etc/default/grub 
-sudo nvim /etc/mkinitcpio.conf 
-sudo nvim /etc/fstab 
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-sudo mkinitcpio -P
-systemctl hibernate
-mkswap -U clear --size 4G --file /swapfile
-sudo mkswap -U clear --size 4G --file /swapfile
-sudo swapoff /swapfile 
-sudo rm -rf /swapfile 
-sudo mkswap -U clear --size 8G --file /swapfile
-swapon /swapfile 
-sudo swapon /swapfile 
-sudo nvim /etc/fstab 
-swapon --show
-filefrag -v /swapfile 
-sudo filefrag -v /swapfile 
-blkid 
-ls -l /dev/sda2
-blkid /dev/sda2
-blkid /dev/sda2
-blkid --help
-sudo blkid /dev/sda2
-sudo blkid /dev/sda
-sudo filefrag -v /swapfile 
-sudo filefrag -v swap_file | awk '$1=="0:" {print substr($4, 1, length($4)-2)}'
-sudo filefrag -v /swapfile | awk '$1=="0:" {print substr($4, 1, length($4)-2)}'
-systemctl hibernate
-nvim ~/.config/scripts/shutdown.sh 
-z sujat-dotfiles/
-git add . && git commit -m "made some changes to hyprlock" && git push origin main 
-nvim .bashrc
-n 
-source ~/.bashrc
-z ~/.config 
-z hypr 
-nvim hypridle.conf 
-z
-z hypr
-z 
-z sujat-dotfiles/
-git add . && git commit -m "made some changes to hyprlock" && git push origin main 
-z media
-ls
-mkdir tvseries 
-z ..
-rm -rf tvseries 
-sudo pacman -S polkit
-sudo pacman -S polkit-gnome 
-sudo pacman -S gparted 
-gparted
-polkit-gnome 
-/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
-gparted
-exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
-kill 42011
-sudo pacman -Rns gparted
-/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
-sudo gparted
-sudo gparted
-gparted
-sudo pacman -Rns gparted
-sudo pacman -S gparted 
-sudo pacman -S partitionmanager
-sudo partitionmanager
-/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
-partitionmanager 
-z books 
-ls
-z maths
-ls
-sudo pacman -S mpv 
-z dwl 
-m 'House of Cards (US) - S01E01 - Chapter 1 Bluray-1080p.mkv' 
-z media
-ls
-mkdir tvseries 
-ls
-z dwl 
-mv *cards* ~/core/media/tvseries/
-mv *Cards* ~/core/media/tvseries/
-z media
-z tvseries
-z 
-z tvseries
-ls
-mkdir house-of-cards
-mv *Cards* house-of-cards/
-z house-of-cards/
-z
-z house-of-cards/
-z house-of-cards/
-z ~/core/media/tvseries/house-of-cards/
-z 
-house-of-cards
-z house-of-cards
-m 'House of Cards (US) - S01E02 - Chapter 2 Bluray-1080p.mkv' 
-z dwl 
-mv *Cards* house-of-cards/
-mv *Cards* ~/core/media/tvseries/house-of-cards/
-z house-of-cards
-m 'House of Cards (US) - S01E03 - Chapter 3 Bluray-1080p.mkv' 
-m 'House of Cards (US) - S01E03 - Chapter 3 Bluray-1080p.mkv' 
-m 'House of Cards (US) - S01E04 - Chapter 4 Bluray-1080p.jLcrM7dh.mkv.part' 
-z dwl 
-m 'House of Cards (US) - S01E04 - Chapter 4 Bluray-1080p(1).mkv' 
-m 'House of Cards (US) - S01E05 - Chapter 5 Bluray-1080p.mkv' 
-z dwl 
-rm *Cards*
-ls
-rm * 
-ls
-sudo pacman -Syu
-systemctl hybrid-sleep
-systemctl hybrid-sleep
-z house-of-cards
-z dwl 
-m 'House of Cards (US) - S01E09 - Chapter 9 Bluray-1080p.mkv' 
-z 'House of Cards (US) - S01E10 - Chapter 10 Bluray-1080p.mkv' 
-m 'House of Cards (US) - S01E10 - Chapter 10 Bluray-1080p.mkv' 
-m 'House of Cards (US) - S01E11 - Chapter 11 Bluray-1080p.mkv' 
-m 'House of Cards (US) - S01E12 - Chapter 12 Bluray-1080p.mkv' 
-m 'House of Cards (US) - S01E13 - Chapter 13 Bluray-1080p.mkv' 
-z dwl
-m 'House of Cards (US) - S02E01 - Chapter 14 WEBRip-1080p(1).mkv' 
-m 'House of Cards (US) - S02E02 - Chapter 15 WEBRip-1080p.mkv' 
-m 'House of Cards (US) - S02E02 - Chapter 15 WEBRip-1080p.mkv' 
-m 'House of Cards (US) - S02E02 - Chapter 15 WEBRip-1080p.sOYLEM3n.mkv.part' 
-systemctl hybrid-sleep
-systemctl hybrid-sleep
-m 'House of Cards (US) - S02E02 - Chapter 15 WEBRip-1080p.sOYLEM3n.mkv.part' 
-z dwl
-m 'House of Cards (US) - S02E02 - Chapter 15 WEBRip-1080p.sOYLEM3n.mkv.part' 
-m 'House of Cards (US) - S02E02 - Chapter 15 WEBRip-1080p.sOYLEM3n.mkv.part' 
-m 'House of Cards (US) - S02E02 - Chapter 15 WEBRip-1080p.mkv' 
-m 'House of Cards (US) - S02E02 - Chapter 15 WEBRip-1080p.mkv' 
-z dwl
 ls
 systemctl hibernate
 z dwl 
@@ -498,3 +193,308 @@ pet new pet
 pet new 
 pet list
 pet exec 
+z sujat-dotfiles/
+pe
+htop
+htop
+htop
+fzf
+z /
+fzf
+z
+clear
+htop
+fzf | wofi --dmenu
+n .bashrc
+n .bashrc
+ls
+n .bashrc
+history 
+history | fzf
+history | fzf
+fzf
+z dwl 
+ls 
+m House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
+nvidia-smi
+z .config
+ls
+z alacritty
+ls
+n alacritty.toml 
+z hypr 
+n hyprland.conf 
+n hyprland.conf 
+pe 
+pe 
+pe 
+pn
+pe 
+nvida-smi
+nvidia-smi
+sudo pacman -Syu
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
+nvidia-smi
+reboot
+nvidia-smi
+nvidia-smi
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
+nvidia-smi
+nvidia-smi
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
+nvidia-smi
+nvidia-smi
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
+z hypr
+n hyprland.conf 
+nvidia-smi
+kill 2522
+nvidia-smi
+sudo pacman -Syu 
+nvidia-smi
+kill 2838
+nvidia-smi
+nvidia-smi
+kill 3112
+clear
+z hypr 
+n hyprland.conf
+prime-run alacritty
+nvidia-smi
+journalctl 
+journalctl | fzf
+journalctl | fzf
+journalctl | grep - i alacritty | fzf
+journalctl | grep - i alacritty 
+journalctl | grep -i  alacritty | fzf
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia kitty
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
+journalctl | fzf
+nvidia-smi
+kill 6014
+nvidia-smi
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
+kill 562
+sudo kill 562
+nvidia-smi
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia 
+sudo pacman -S wezterm 
+wezterm
+htop | fzf
+wezterm
+wezterm --always-new-process
+wezterm start --always-new-process
+btop
+nvidia-smi
+wezterm
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia wezterm
+sudo pacman -Rns wezterm 
+ cat /sys/module/nvidia_drm/parameters/modeset
+sudo  cat /sys/module/nvidia_drm/parameters/modeset
+sudo nvim /etc/modprobe.d/nvidia-drm.conf
+sudo mkinitcpio -P
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+nvidia-smi
+sudo  cat /sys/module/nvidia_drm/parameters/modeset
+history | fzf
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacrittY
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
+nvidia-smi
+z hypr 
+n hyprland.conf 
+n
+n
+nvidia-smi
+z hypr 
+n hyprland.conf 
+nvidia-smi
+nvtop
+nvidia-smi
+poweroff
+z hypr 
+n hyprland.conf 
+nvidia-smi
+nvidia-smi
+alacritty
+n
+nvidia-smi
+nvidia-smi
+nvidia-smi
+alacritty
+n
+nvidia-smi
+nvtop
+nvtop
+n
+nvtop
+nvidia-smi
+z /
+fzf
+z
+clear
+sudo pacman -Syu
+n
+z hypr 
+n hyprland.conf 
+ls
+clear
+nvidia-smi
+what the fuck 
+n 
+sudo pacman -S wezterm 
+wezterm 
+wezterm 
+ls
+ls
+history | fzf 
+history | fzf 
+n .bashrc
+source .bashrc
+fh
+sudo pacman -S pbcopy 
+n .bashrc
+source .bashrc
+fh
+fh 
+n .bashrc
+source .bashrc
+fh
+n .bashrc 
+n
+history | fzf | echo
+history | fzf | echo ""
+history | fzf | echo ""
+sudo pacman -S zsh 
+chsh -s /bin/zsh 
+which zsh 
+chsh -s /usr/bin/zsh
+echo $SHELL
+hyprctl dispatch exit
+n .bashrc
+n
+clear
+clear
+n ~/.config/starship.toml 
+n ~/.config/starship.toml
+$SHELL
+clear 
+sudo pacman -Syu 
+clear
+n ~/.config/starship.toml 
+n ~/.config/starship.toml 
+pe
+pe
+starship preset gruvbox-rainbow -o ~/.config/starship.toml
+ls
+ls
+z sujat-dotfiles/
+clear
+z
+ls
+n .bashrc
+nvtop
+z dwl 
+mpv House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
+m House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
+mpv House\ of\ Cards\ \(US\)\ -\ S03E02\ -\ Chapter\ 28\ WEBRip-1080p.mkv 
+sudo pacman -S vdpau
+n .bashrc
+z dwl
+m House\ of\ Cards\ \(US\)\ -\ S03E02\ -\ Chapter\ 28\ WEBRip-1080p.mkv 
+m House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
+m House\ of\ Cards\ \(US\)\ -\ S03E02\ -\ Chapter\ 28\ WEBRip-1080p.mkv 
+n .bashrc
+n .bashrc
+ls
+n ~/.bashrc
+nvtop
+nvidia-smi
+n .bashrc
+z dwl 
+m House\ of\ Cards\ \(US\)\ -\ S03E02\ -\ Chapter\ 28\ WEBRip-1080p.mkv 
+z hypr 
+n hyprland.conf 
+z dwl 
+m House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
+z dwl 
+mpv --hwdec=nvdec House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
+faf
+fzf
+n ~/.config/hypr/hyprland.conf
+n ~/.config/hypr/hyprland.conf
+htop
+nvidia-smi
+nvidia-smi
+n ~/.config/hypr/hyprland.conf
+z dwl 
+m House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
+mpv --hwdec=cuda House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
+pn
+pe
+mpv --hwdec=auto  House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
+z dwl 
+m House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
+htop
+nvtop
+ls 
+nvidia-smi
+htop
+nvtop
+sudo pacman -Rns xterm
+sudo pacman -S xterm
+nvtop
+z dwl 
+sudo pacman -Syu 
+nvim 
+builtin cd -- /home/sujat/.ssh
+z
+clear
+builtin cd -- /home/sujat/core/dwl
+cd
+builtin cd -- /home/sujat/.config/hypr/shaders
+z
+builtin cd -- /home/sujat/sujat-dotfiles/.config/hypr
+z
+systemctl hibernate 
+z dwl 
+m House\ of\ Cards\ \(US\)\ -\ S03E02\ -\ Chapter\ 28\ WEBRip-1080p.mkv 
+m House\ of\ Cards\ \(US\)\ -\ S03E03\ -\ Chapter\ 29\ WEBRip-1080p.mkv 
+m House\ of\ Cards\ \(US\)\ -\ S03E04\ -\ Chapter\ 30\ WEBRip-1080p.mkv 
+systemctl hibernate
+sudo pacman -Syu 
+clear
+fastfetch
+nvtop
+builtin cd -- /home/sujat/sujat-dotfiles/.config/hypr
+cd ..
+z hypr
+n hyprland.conf 
+.local/share/sddm 
+z hypr
+n hyprland.conf 
+cd $(find * -type d | fzf)
+cd $(find * -type d | fzf)
+cd $(~ | fzf)
+cd | fzf
+n .bashrc
+cc
+cc
+cc
+cc
+cc
+sudo pacman -Rns hypr 
+sudo pacman -Rns zoxide
+n .bashrc 
+cc 
+cc
+cc
+cc
+cc
+cc
+cc
+cc
+cc
+cc
