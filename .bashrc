@@ -8,22 +8,28 @@
 PS1='[\u@\h \W]\$ '
 
 
+#Environment variables
 export MOZ_ENABLE_WAYLAND=1
 
+
+#Commandline tools
 eval "$(starship init bash)"
 eval "$(fzf --bash)"
 
-cc(){
-  cd ~
+#FUNCTIONS
+#Modified fzf function for ALT C 
+c(){
+  cd ~ 
   local dir
   dir=$(find ${1:-.} -type d 2> /dev/null | fzf +m) &&
   cd "$dir"
 }
 
 
-
+#Set vi mode in bash
 set -o vi
 
+#Aliases
 alias m="mpv --hwdec=vaapi"
 alias mu="mpv --no-audio-display"
 alias ls='ls --color=auto'

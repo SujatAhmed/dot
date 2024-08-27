@@ -1,79 +1,3 @@
-ls
-systemctl hibernate
-z dwl 
-ls
-m 'House of Cards (US) - S02E06 - Chapter 19 WEBRip-1080p.mkv' 
-m 'House of Cards (US) - S02E05 - Chapter 18 WEBRip-1080p.mkv' 
-m 'House of Cards (US) - S02E06 - Chapter 19 WEBRip-1080p.mkv' 
-m 'House of Cards (US) - S02E07 - Chapter 20 WEBRip-1080p.mkv' 
-m 'House of Cards (US) - S02E08 - Chapter 21 WEBRip-1080p.mkv' 
-m 'House of Cards (US) - S02E08 - Chapter 21 WEBRip-1080p.mkv' 
-m 'House of Cards (US) - S02E09 - Chapter 22 WEBRip-1080p.mkv' 
-m 'House of Cards (US) - S02E10 - Chapter 23 WEBRip-1080p(1).mkv' 
-m 'House of Cards (US) - S02E11 - Chapter 24 WEBRip-1080p.mkv' 
-m 'House of Cards (US) - S02E13 - Chapter 26 WEBRip-1080p.mkv' 
-rm *Cards*
-l
-ls
-hyprctl dispatch exit 
-systemctl hibernate
- z media
-nvim ~/.inputrc
-nvim .bashrc
-source ~/.bashrc
-clear
-z 
-z media 
-clear
-z 
-n ~/.bashrc
-n .bashrc
-n .inputrc
-n .bashrc 
-source .bashrc
-clear
-ls 
-ls -a 
-n .inputrc
-n .bashrc
-n .bashrc
-echo $INPUTRC
-bind -f ~/.inputrc
-echo $INPUTRC
-n /etc/inputrc 
-n .bashrc
-n .inputrc
-n .bashrc
-exec bash
-ls 
-sudo pacman -S calibre 
-sudo pacman -Rns calibre
- n /etc/inputrc 
-n .inputrc
-n .bashrc
-source .bashrc
-bind -f ~/.inputrc
-n .bashrc
-bind -q menu-complete
-n .inputrc
-source .bashrc
-n .bashrc
-sudo n /etc/inputrc 
-sudo nvim  /etc/inputrc 
-n .bashrc
-n ~/.local/share/blesh/ble.sh 
-n .bashrc
-z ~/.local/share/
-ls
-z blesh
-ls
-z .. 
-rm -rf blesh
-clear
-ls
-z
-clear
-ls
 rm -rf ble.sh/ Calibre\ Library/ 
 clear
 ls
@@ -498,3 +422,79 @@ cc
 cc
 cc
 cc
+cc
+pe
+cd
+ls
+cc
+cc
+n .bashrc
+c
+c
+c
+c
+c
+c 
+ls
+cd
+c
+cd
+n .bashrc
+c
+ls
+c
+c
+c
+c
+c
+n .bashrc
+cd
+n .bashrc
+c
+c
+c
+c 
+c
+c
+c
+systemctl hibernate
+fzf
+c
+ls
+m House\ of\ Cards\ \(US\)\ -\ S03E05\ -\ Chapter\ 31\ WEBRip-1080p.mkv 
+m House\ of\ Cards\ \(US\)\ -\ S03E06\ -\ Chapter\ 32\ WEBRip-1080p.mkv 
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+clear
+c
+h
+h
+n .bashrc
+h
+c
+c
+m House\ of\ Cards\ \(US\)\ -\ S03E06\ -\ Chapter\ 32\ WEBRip-1080p\(1\).mkv 
+m House\ of\ Cards\ \(US\)\ -\ S03E07\ -\ Chapter\ 33\ WEBRip-1080p.mkv 
+m House\ of\ Cards\ \(US\)\ -\ S03E08\ -\ Chapter\ 34\ WEBRip-1080p.mkv 
+systemctl hibernate
+sudo pacman -Syu 
+c
+m House\ of\ Cards\ \(US\)\ -\ S03E09\ -\ Chapter\ 35\ WEBRip-1080p.mkv 
+m House\ of\ Cards\ \(US\)\ -\ S03E10\ -\ Chapter\ 36\ WEBRip-1080p.mkv 
+c
+c
+m House\ of\ Cards\ \(US\)\ -\ S03E10\ -\ Chapter\ 36\ WEBRip-1080p.mkv 
