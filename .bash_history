@@ -1,120 +1,3 @@
-rm -rf ble.sh/ Calibre\ Library/ 
-clear
-ls
-rm NTIyMzg\=.pdf NzI0MjM\=.pdf Sync/
-rm -rf NTIyMzg\=.pdf NzI0MjM\=.pdf Sync/
-ls
-n .inputrc 
-clear  
-n .inputrc 
-n .inputrc
-n .bahsrc
-n .bashrc 
-n .bashrc
-n .inputrc
-bind -f ~/.inputrc 
-sudo pacman -S pet 
-z sujat-dotfiles/
-git add . && git commit -m "removed blesh for more simple tools"
-git push origin main 
-pet 
-sudo pacman -S pet
-z dwl 
-sudo pacman -S pet_0.9.0_darwin_amd64.tar.gz pet_0.9.0_darwin_amd64.tar.gz 
-sudo pacman -Syu 
-sudo pacman -S ripgrep 
-n .bashrc
-n .inputrc 
-bind -f ~/.inputrc
-bind -f ~/.inputrc
-n .bashrc
-n .bashrc
-n .inputrc 
-sudo nvim ~/etc/inputrc
-sudo nvim /etc/inputrc
-sudo nvim ~/etc/inputrc
-sudo nvim /etc/inputrc
-sudo pacman -S kvantum
-sudo pacman -Rns kvantum
-z hypr
-n hyprland.conf 
-mkdir -p $GOPATH/src/github.com/knqyf263
-cd $GOPATH/src/github.com/knqyf263
-git clone https://github.com/knqyf263/pet.git
-cd pet
-make install
-sudo pacman -S go
-z ..
-ls
-rm -rf pet
-clear
-mkdir -p $GOPATH/src/github.com/knqyf263
-cd $GOPATH/src/github.com/knqyf263
-git clone https://github.com/knqyf263/pet.git
-cd pet
-make install
-z ..
-pet 
-ls 
-rm -rf go 
-sudo rm -rf go 
-clear 
-ls
-n .bashrc
-z nvim
-z ~/.config/nvim
-n 
-htop
-pet search
-pet search
-pet delete 
-pet 
-pet edit
-pet search
-pet new 
-pet exec
-z sujat-dotfiles/
-pet exec 
-pet exec 
-n .bashrc
-pe
-pe
-pn 
-pe
-pet 
-z $GOPATH
-ls
-where pet 
-which pet
-z ..
-z sujat
-clear
-ls
-rm -rf pet 
-clear 
-sudo pacman -S --needed base-devel
-git clone https://aur.archlinux.org/paru.git
-cd paru
-makepkg -si
-z ..
-rm -rf paru
-clear 
-paru -S pet-bin
-pet
-pet new 
-pet exec
-sudo pacman -S fzf
-pet exec
-pet
-pet clip 
-z core
-pet clip 
-pet 
-pet clip z core
-clear
-
-pet new pet
-pet new 
 pet list
 pet exec 
 z sujat-dotfiles/
@@ -498,3 +381,120 @@ m House\ of\ Cards\ \(US\)\ -\ S03E10\ -\ Chapter\ 36\ WEBRip-1080p.mkv
 c
 c
 m House\ of\ Cards\ \(US\)\ -\ S03E10\ -\ Chapter\ 36\ WEBRip-1080p.mkv 
+n .bashrc
+c
+pe
+c 
+cd
+ls | fzf | cd
+ls | fzf | echo
+c
+rm House\ of\ Cards\ \(US\)\ -\ S03E11\ -\ Chapter\ 37\ WEBRip-1080p.mkv 
+systemctl hibernate
+systemctl hibernate
+pe
+systemctl sleep
+c
+c
+c
+c
+c
+c
+n .inputrc 
+[200~bind -f ~/.inputrc
+nd -f ~/.inputrc
+nd -f ~/.inputrc
+nd -f ~/.inputrc
+bind -f .inputrc 
+bind -f ~/.inputrc
+c
+n .inputrc
+bind -f ~/.inputrc
+n .inputrc 
+n .inputrc 
+bind -f ~/.inputrc
+n .bashrc
+bashrc
+n .bashrc
+__fzf_select__
+c
+n .bashrc
+c
+c
+c
+.gitconfig 
+c
+builtin cd -- /home/sujat/.local
+n .bashec
+n .bashrc
+cd
+n .bashrc
+n .bashrc
+n .bashrc
+clear
+n .inputrc
+bind -f ~/.inputrc
+n .inputrc
+n .bashrc
+n .bashrc
+n .inputrc 
+__fzf_history__
+n .inputrc 
+n .bashrc
+h
+h
+h
+n .bashrc
+n .bashrc
+v
+v
+n .bashrc
+n .bashrc
+bind -X 
+source .bashrc
+source .bashrc
+source .bashrc
+source .bashrc
+source .bashrc
+source .bashrc
+source .bashrc
+bind -X 
+source .bashrc
+source .bashrc
+source .bashrc
+bind -X 
+source .bashrc
+bind -X 
+bind -X 
+source .bashrc
+bind -X 
+source .bashrc
+bind -X 
+source .bashrc
+bind -X 
+su
+clear 
+source .bashrc
+bind -X 
+cat
+source .bashrc
+c
+n hyprland.conf 
+c
+c
+c
+pwd
+ls
+ls
+cat 
+sdsl
+ss
+sds
+clear
+n .bashec
+n .bashrc
+clear
+clear
+ls
+ls
+pe

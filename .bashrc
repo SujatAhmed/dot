@@ -8,6 +8,9 @@
 PS1='[\u@\h \W]\$ '
 
 
+#bind -f ~/.inputrc
+
+
 #Environment variables
 export MOZ_ENABLE_WAYLAND=1
 
@@ -26,8 +29,12 @@ c(){
 }
 
 
-#Set vi mode in bash
+#Set vi mode in bash and keybinds
 set -o vi
+bind -m vi-insert -x '"\eh": __fzf_history__'
+bind -m vi-insert -x '"\ec": c && pwd'
+bind -m vi-insert -x '"\C-l": clear'
+
 
 #Aliases
 alias m="mpv --hwdec=vaapi"
