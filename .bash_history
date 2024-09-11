@@ -1,322 +1,3 @@
-pet list
-pet exec 
-z sujat-dotfiles/
-pe
-htop
-htop
-htop
-fzf
-z /
-fzf
-z
-clear
-htop
-fzf | wofi --dmenu
-n .bashrc
-n .bashrc
-ls
-n .bashrc
-history 
-history | fzf
-history | fzf
-fzf
-z dwl 
-ls 
-m House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
-nvidia-smi
-z .config
-ls
-z alacritty
-ls
-n alacritty.toml 
-z hypr 
-n hyprland.conf 
-n hyprland.conf 
-pe 
-pe 
-pe 
-pn
-pe 
-nvida-smi
-nvidia-smi
-sudo pacman -Syu
-__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
-nvidia-smi
-reboot
-nvidia-smi
-nvidia-smi
-__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
-__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
-nvidia-smi
-nvidia-smi
-__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
-nvidia-smi
-nvidia-smi
-__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
-z hypr
-n hyprland.conf 
-nvidia-smi
-kill 2522
-nvidia-smi
-sudo pacman -Syu 
-nvidia-smi
-kill 2838
-nvidia-smi
-nvidia-smi
-kill 3112
-clear
-z hypr 
-n hyprland.conf
-prime-run alacritty
-nvidia-smi
-journalctl 
-journalctl | fzf
-journalctl | fzf
-journalctl | grep - i alacritty | fzf
-journalctl | grep - i alacritty 
-journalctl | grep -i  alacritty | fzf
-__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
-__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia kitty
-__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
-journalctl | fzf
-nvidia-smi
-kill 6014
-nvidia-smi
-__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
-kill 562
-sudo kill 562
-nvidia-smi
-__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia 
-sudo pacman -S wezterm 
-wezterm
-htop | fzf
-wezterm
-wezterm --always-new-process
-wezterm start --always-new-process
-btop
-nvidia-smi
-wezterm
-__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia wezterm
-sudo pacman -Rns wezterm 
- cat /sys/module/nvidia_drm/parameters/modeset
-sudo  cat /sys/module/nvidia_drm/parameters/modeset
-sudo nvim /etc/modprobe.d/nvidia-drm.conf
-sudo mkinitcpio -P
-sudo grub-mkconfig -o /boot/grub/grub.cfg
-reboot
-nvidia-smi
-sudo  cat /sys/module/nvidia_drm/parameters/modeset
-history | fzf
-__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacrittY
-__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia alacritty
-nvidia-smi
-z hypr 
-n hyprland.conf 
-n
-n
-nvidia-smi
-z hypr 
-n hyprland.conf 
-nvidia-smi
-nvtop
-nvidia-smi
-poweroff
-z hypr 
-n hyprland.conf 
-nvidia-smi
-nvidia-smi
-alacritty
-n
-nvidia-smi
-nvidia-smi
-nvidia-smi
-alacritty
-n
-nvidia-smi
-nvtop
-nvtop
-n
-nvtop
-nvidia-smi
-z /
-fzf
-z
-clear
-sudo pacman -Syu
-n
-z hypr 
-n hyprland.conf 
-ls
-clear
-nvidia-smi
-what the fuck 
-n 
-sudo pacman -S wezterm 
-wezterm 
-wezterm 
-ls
-ls
-history | fzf 
-history | fzf 
-n .bashrc
-source .bashrc
-fh
-sudo pacman -S pbcopy 
-n .bashrc
-source .bashrc
-fh
-fh 
-n .bashrc
-source .bashrc
-fh
-n .bashrc 
-n
-history | fzf | echo
-history | fzf | echo ""
-history | fzf | echo ""
-sudo pacman -S zsh 
-chsh -s /bin/zsh 
-which zsh 
-chsh -s /usr/bin/zsh
-echo $SHELL
-hyprctl dispatch exit
-n .bashrc
-n
-clear
-clear
-n ~/.config/starship.toml 
-n ~/.config/starship.toml
-$SHELL
-clear 
-sudo pacman -Syu 
-clear
-n ~/.config/starship.toml 
-n ~/.config/starship.toml 
-pe
-pe
-starship preset gruvbox-rainbow -o ~/.config/starship.toml
-ls
-ls
-z sujat-dotfiles/
-clear
-z
-ls
-n .bashrc
-nvtop
-z dwl 
-mpv House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
-m House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
-mpv House\ of\ Cards\ \(US\)\ -\ S03E02\ -\ Chapter\ 28\ WEBRip-1080p.mkv 
-sudo pacman -S vdpau
-n .bashrc
-z dwl
-m House\ of\ Cards\ \(US\)\ -\ S03E02\ -\ Chapter\ 28\ WEBRip-1080p.mkv 
-m House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
-m House\ of\ Cards\ \(US\)\ -\ S03E02\ -\ Chapter\ 28\ WEBRip-1080p.mkv 
-n .bashrc
-n .bashrc
-ls
-n ~/.bashrc
-nvtop
-nvidia-smi
-n .bashrc
-z dwl 
-m House\ of\ Cards\ \(US\)\ -\ S03E02\ -\ Chapter\ 28\ WEBRip-1080p.mkv 
-z hypr 
-n hyprland.conf 
-z dwl 
-m House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
-z dwl 
-mpv --hwdec=nvdec House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
-faf
-fzf
-n ~/.config/hypr/hyprland.conf
-n ~/.config/hypr/hyprland.conf
-htop
-nvidia-smi
-nvidia-smi
-n ~/.config/hypr/hyprland.conf
-z dwl 
-m House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
-mpv --hwdec=cuda House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
-pn
-pe
-mpv --hwdec=auto  House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
-z dwl 
-m House\ of\ Cards\ \(US\)\ -\ S03E01\ -\ Chapter\ 27\ WEBRip-1080p.mkv 
-htop
-nvtop
-ls 
-nvidia-smi
-htop
-nvtop
-sudo pacman -Rns xterm
-sudo pacman -S xterm
-nvtop
-z dwl 
-sudo pacman -Syu 
-nvim 
-builtin cd -- /home/sujat/.ssh
-z
-clear
-builtin cd -- /home/sujat/core/dwl
-cd
-builtin cd -- /home/sujat/.config/hypr/shaders
-z
-builtin cd -- /home/sujat/sujat-dotfiles/.config/hypr
-z
-systemctl hibernate 
-z dwl 
-m House\ of\ Cards\ \(US\)\ -\ S03E02\ -\ Chapter\ 28\ WEBRip-1080p.mkv 
-m House\ of\ Cards\ \(US\)\ -\ S03E03\ -\ Chapter\ 29\ WEBRip-1080p.mkv 
-m House\ of\ Cards\ \(US\)\ -\ S03E04\ -\ Chapter\ 30\ WEBRip-1080p.mkv 
-systemctl hibernate
-sudo pacman -Syu 
-clear
-fastfetch
-nvtop
-builtin cd -- /home/sujat/sujat-dotfiles/.config/hypr
-cd ..
-z hypr
-n hyprland.conf 
-.local/share/sddm 
-z hypr
-n hyprland.conf 
-cd $(find * -type d | fzf)
-cd $(find * -type d | fzf)
-cd $(~ | fzf)
-cd | fzf
-n .bashrc
-cc
-cc
-cc
-cc
-cc
-sudo pacman -Rns hypr 
-sudo pacman -Rns zoxide
-n .bashrc 
-cc 
-cc
-cc
-cc
-cc
-cc
-cc
-cc
-cc
-cc
-cc
-pe
-cd
-ls
-cc
-cc
-n .bashrc
-c
-c
-c
-c
-c
 c 
 ls
 cd
@@ -498,3 +179,322 @@ clear
 ls
 ls
 pe
+pe
+ls
+ls
+ls
+ls
+ls
+ls
+starship preset tokyo-night -o ~/.config/starship.toml
+ls
+ls
+starship preset nerd-font-symbols -o ~/.config/starship.toml
+ld
+cat
+n .bashrc
+c
+c
+c
+c
+c
+cliphist clear
+cliphist delete
+cliphist wipe 
+c
+c
+ls
+cd
+c
+systemctl hibernate
+c 
+ls
+c
+ls | fzf | m 
+ls | fzf | mpv
+ls 
+ls
+ls
+ls
+ls
+c
+c
+n .bashrc
+ls
+ls
+clear
+n .bashrc
+c
+c
+htop
+pe
+c
+ls
+nsxiv .
+nvtop 
+nvtop
+sudo pacman -S wezterm 
+nvtop
+plist
+ps | fzf
+ps
+kill 150792
+sudo pacman -S intel_gpu_top
+sudo pacman -S intel_gpu_tools
+sudo pacman -S intel-gpu-tools
+sudo intel_gpu_top
+echo $XDG_SESSION_TYPE
+loginctl show-session $(loginctl | grep $(whoami) | awk '{print $1}') -p Type
+echo $DESKTOP_SESSION
+ps -e | grep -E -i "xorg|wayland"
+htop | fzf
+
+c
+c
+ps aux | fzf
+ps aux | fzf
+ps aux | fzf
+sudo intel_gpu_top
+sudo systemctl disable sddm.service
+sudo pacman -Rns sddm 
+sudo pacman -S sddm
+c
+c
+c
+clear
+cd
+n .bashrc
+cd
+ls
+n .bashrc
+c
+c
+n .bashrc
+c
+cd /
+__fzf_cd__
+cd
+c
+c
+sudo pacman -S zoxide
+n .bashrc
+z media
+z
+c
+.gitconfig 
+c
+z
+zi 
+zi media
+zi 
+echo $XDG_DATA_HOME
+zi 
+n .bashrc
+z
+n .bashrc
+c
+zi
+n .bashrc
+z
+n .bashrc
+z media z#/home/sujat/core/media/ 
+zi 
+c
+c
+c
+n _canonical_names.pyi 
+n __init__.pyi 
+z
+zi
+c 
+ls
+m Kanye\ West\ -\ Law\ of\ Attraction.mp3 
+mu Kanye\ West\ -\ Law\ of\ Attraction.mp3 
+z /etc
+__fzf_cd__
+zi 
+c
+ls
+z
+clear
+zi 
+zi 
+m House\ of\ Cards\ \(US\)\ -\ S03E13\ -\ Chapter\ 39\ WEBRip-1080p.mkv 
+c
+z dwl
+m House\ of\ Cards\ \(US\)\ -\ S03E11\ -\ Chapter\ 37\ WEBRip-1080p.mkv 
+m House\ of\ Cards\ \(US\)\ -\ S03E12\ -\ Chapter\ 38\ WEBRip-1080p.mkv 
+m House\ of\ Cards\ \(US\)\ -\ S03E13\ -\ Chapter\ 39\ WEBRip-1080p.mkv 
+ls
+rm *Cards*
+ls
+rm *
+ls
+m House\ of\ Cards\ \(US\)\ -\ S04E01\ -\ Chapter\ 40\ WEBRip-1080p.mkv 
+zi
+m House\ of\ Cards\ \(US\)\ -\ S04E02\ -\ Chapter\ 41\ WEBRip-1080p.mkv 
+z
+z wallpapers
+ls
+nsxiv .
+z 
+sd
+pwd | z
+pwd | c
+c ~
+c /etc
+c
+c
+c ~
+c
+c
+c
+c ~
+c
+c
+c
+c
+c
+c
+c
+c ~
+c
+c ~
+ls
+c ~
+c 
+x
+c
+c
+c ~
+c
+c ~
+c
+n .bashrc
+z
+n .bashrc
+c ~
+c
+c
+c
+c
+c
+c ~
+c
+c /etc
+c
+z
+c
+c ~
+c
+c
+c
+c ~
+c
+c
+c
+c
+n .bashrc
+z ~
+ls
+n .bahsrc
+n .bashrc
+c /etc
+cd
+c
+c ~
+c 
+c
+c
+z
+c
+c ~
+n .bashrc
+c 
+c ~
+c /etc
+cd
+echo $base_dir
+zsh
+ls
+fish 
+sudo pacman -S fish 
+fish
+fish 
+c
+n .bashrc
+c
+c ~
+n .bashrc
+ls
+hyprctl dispatch exit 
+c ~
+c 
+c
+c
+l
+ls
+ls
+ls
+c
+c ~
+ls 
+c ~
+c 
+c
+echo $base_dir
+c /etc
+ls
+c 
+ls
+n hooks
+c 
+ls
+ls -a
+c
+c ~
+fish
+sudo pacman -Syu 
+systemctl hibernate
+ls
+c /lib
+c /lib
+c /bin
+ls
+c
+c
+c ~
+ls
+ls
+clear
+zsh 
+zsh
+zsh
+zsh
+n .zshrc
+exit
+zsh
+n .bashrc
+n .zshrc
+zsh 
+n .bashrc
+n .zshrc
+cd **
+sudo pacman -Syu 
+exit
+sh
+zsh
+zsh
+c
+c ~
+ls
+n .zshrc
+hyprctl dispatch exit 
+chsh -s /usr/bin/zsh
+systemctl stop $(loginctl session-status | awk 'NR==1{print $1}')
+systemctl stop $(loginctl session-status | awk 'NR==1{print $1}')
+ls
+Hyprland
+ls
+systemctl logout
+Hyprland

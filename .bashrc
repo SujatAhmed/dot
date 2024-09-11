@@ -1,12 +1,3 @@
-#
-# ~/.bashrc
-#
-
-# If not running interactively, don't do anything
-[[ $- != *i* ]] && return
-
-PS1='[\u@\h \W]\$ '
-
 
 #bind -f ~/.inputrc
 
@@ -14,25 +5,33 @@ PS1='[\u@\h \W]\$ '
 #Environment variables
 export MOZ_ENABLE_WAYLAND=1
 
-
 #Commandline tools
 eval "$(starship init bash)"
 eval "$(fzf --bash)"
+eval "$(zoxide init bash)"
 
 #FUNCTIONS
 #Modified fzf function for ALT C 
-c(){
-  cd ~ 
+base_dir= 
+cd-fzf(){
+
+  if [ -n "$1" ]; then
+    base_dir="$1"
+  fi
+  z "$base_dir" 
   local dir
   dir=$(find ${1:-.} -type d 2> /dev/null | fzf +m) &&
-  cd "$dir"
+  z "$dir"
+
 }
+
+
+
 
 
 #Set vi mode in bash and keybinds
 set -o vi
 bind -m vi-insert -x '"\eh": __fzf_history__'
-bind -m vi-insert -x '"\ec": c && pwd'
 bind -m vi-insert -x '"\C-l": clear'
 
 
@@ -45,6 +44,7 @@ alias l='ls -a'
 alias n='nvim'
 alias pe='pet exec'
 alias pn='pet new'
+alias c='cd-fzf'
 
 
 
