@@ -1,0 +1,230 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxyXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="lab04-486f99f5">
+      <jump line="2" column="0" filename="$USER_HOME$/projects/225.L/lab04/main.cpp" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/225.L/lab04/main.cpp" protocol="file" />
+      <jump line="4" column="15" filename="$USER_HOME$/projects/225.L/lab04/main.cpp" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/225.L/lab04/main.cpp" protocol="file" />
+      <jump line="8" column="17" filename="$USER_HOME$/projects/225.L/lab04/main.cpp" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/225.L/lab04/cmake-build-debug/case-2.cpp" protocol="file" />
+      <jump line="9" column="17" filename="$USER_HOME$/projects/225.L/lab04/case-1.cpp" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/projects/225.L/lab04/case-2.cpp" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/225.L/lab04/CMakeLists.txt" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/225.L/lab04/CMakeLists.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/225.L/lab04/case-2.cpp" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/225.L/lab04/case2.cpp" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/225.L/lab04/case2.h" protocol="file" />
+      <jump line="5" column="6" filename="$USER_HOME$/projects/225.L/lab04/case-2.cpp" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/225.L/lab04/case-1.cpp" protocol="file" />
+      <jump line="2" column="1" filename="$USER_HOME$/projects/225.L/lab04/case-2.cpp" protocol="file" />
+      <jump line="3" column="5" filename="$USER_HOME$/projects/225.L/lab04/case-2.cpp" protocol="file" />
+      <jump line="4" column="12" filename="$USER_HOME$/projects/225.L/lab04/case-2.cpp" protocol="file" />
+      <jump line="7" column="28" filename="$USER_HOME$/projects/225.L/lab04/case-2.cpp" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/225.L/lab04/CMakeLists.txt" protocol="file" />
+      <jump line="10" column="8" filename="$USER_HOME$/projects/225.L/lab04/case-1.cpp" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/projects/225.L/lab04/main.cpp" protocol="file" />
+      <jump line="5" column="4" filename="$USER_HOME$/projects/225.L/lab04/main.cpp" protocol="file" />
+      <jump line="9" column="3" filename="$USER_HOME$/projects/225.L/lab04/main.cpp" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/225.L/lab04/main.cpp" protocol="file" />
+      <jump line="25" column="23" filename="$USER_HOME$/projects/225.L/lab04/main.cpp" protocol="file" />
+    </project>
+    <project id="25-09-ebe1959">
+      <jump line="0" column="0" filename="$USER_HOME$/projects/225/25-09/CMakeLists.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/225/25-09/main.cpp" protocol="file" />
+    </project>
+    <project id="25_09-ebe1959">
+      <jump line="2" column="3" filename="$USER_HOME$/projects/225/25-09/main.cpp" protocol="file" />
+      <jump line="8" column="4" filename="$USER_HOME$/projects/225/25-09/main.cpp" protocol="file" />
+      <jump line="10" column="17" filename="$USER_HOME$/projects/225/25-09/main.cpp" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/225/25-09/main.cpp" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/projects/225/25-09/main.cpp" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/225/25-09/main.cpp" protocol="file" />
+      <jump line="17" column="17" filename="$USER_HOME$/projects/225/25-09/main.cpp" protocol="file" />
+      <jump line="16" column="19" filename="$USER_HOME$/projects/225/25-09/main.cpp" protocol="file" />
+      <jump line="13" column="9" filename="$USER_HOME$/projects/225/25-09/main.cpp" protocol="file" />
+      <jump line="12" column="16" filename="$USER_HOME$/projects/225/25-09/main.cpp" protocol="file" />
+    </project>
+    <project id="25_09-3d97a1aa">
+      <jump line="9" column="0" filename="$USER_HOME$/projects/cse225/225/25-09/main.cpp" protocol="file" />
+      <jump line="22" column="62" filename="$USER_HOME$/projects/cse225/225/25-09/main.cpp" protocol="file" />
+      <jump line="25" column="60" filename="$USER_HOME$/projects/cse225/225/25-09/main.cpp" protocol="file" />
+    </project>
+    <project id="practice-f2b2bd1b">
+      <jump line="0" column="0" filename="$USER_HOME$/projects/practice/CMakeLists.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/practice/main.cpp" protocol="file" />
+      <jump line="7" column="37" filename="$USER_HOME$/projects/practice/main.cpp" protocol="file" />
+      <jump line="1" column="19" filename="$USER_HOME$/projects/practice/main.cpp" protocol="file" />
+      <jump line="9" column="24" filename="$USER_HOME$/projects/practice/main.cpp" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/projects/practice/main.cpp" protocol="file" />
+      <jump line="67" column="0" filename="$USER_HOME$/projects/practice/main.cpp" protocol="file" />
+    </project>
+    <project id="lab04-27085206">
+      <jump line="5" column="11" filename="$USER_HOME$/projects/cse225/225.L/lab04/main.cpp" protocol="file" />
+      <jump line="28" column="10" filename="$USER_HOME$/projects/cse225/225.L/lab04/main.cpp" protocol="file" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/cse225/225.L/lab04/main.cpp" protocol="file" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/cse225/225.L/lab04/main.cpp" protocol="file" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/cse225/225.L/lab04/CMakeLists.txt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cse225/225.L/lab04/src/case1.cpp" protocol="file" />
+    </project>
+    <project id="lab05-27085207">
+      <jump line="0" column="0" filename="$USER_HOME$/projects/cse225/225.L/lab05/CMakeLists.txt" protocol="file" />
+      <jump line="21" column="0" filename="$USER_HOME$/projects/cse225/225.L/lab05/main.cpp" protocol="file" />
+      <jump line="8" column="12" filename="$USER_HOME$/projects/cse225/225.L/lab05/main.cpp" protocol="file" />
+      <jump line="32" column="0" filename="$USER_HOME$/projects/cse225/225.L/lab05/main.cpp" protocol="file" />
+      <jump line="0" column="18" filename="$USER_HOME$/projects/cse225/225.L/lab05/main.cpp" protocol="file" />
+      <jump line="24" column="26" filename="$USER_HOME$/projects/cse225/225.L/lab05/main.cpp" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="/Dummy.txt" timestamp="1727076783906">
+        <mark key="[" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/cse225/225.L/lab05/main.cpp" timestamp="1727439246911">
+        <mark key="&quot;" line="8" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="62" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/cse225/225/25-09/main.cpp" timestamp="1727243243158">
+        <mark key="&quot;" line="0" column="18" />
+        <mark key="[" line="28" column="75" />
+        <mark key="]" line="28" column="74" />
+        <mark key="." line="28" column="73" />
+        <mark key="^" line="28" column="74" />
+      </file>
+      <file name="$USER_HOME$/projects/225.L/lab04/case-1.cpp" timestamp="1727075384677">
+        <mark key="&quot;" line="11" column="0" />
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/practice/CMakeLists.txt" timestamp="1727245187805">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/225.L/lab04/cmake-build-debug/case-2.cpp" timestamp="1727074476286">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/225.L/lab04/case2.h" timestamp="1727074968929">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/practice/main.cpp" timestamp="1727245187818">
+        <mark key="&quot;" line="67" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/225/25-09/main.cpp" timestamp="1727238424842">
+        <mark key="'" line="13" column="9" />
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="4" />
+      </file>
+      <file name="$USER_HOME$/projects/cse225/225.L/lab05/CMakeLists.txt" timestamp="1727439246856">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/225.L/lab04/CMakeLists.txt" timestamp="1727236335653">
+        <mark key="&quot;" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/225.L/lab04/case2.cpp" timestamp="1727074962683">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/225.L/lab04/main.cpp" timestamp="1727236335807">
+        <mark key="&quot;" line="5" column="11" />
+        <mark key="[" line="21" column="69" />
+        <mark key="]" line="21" column="69" />
+        <mark key="." line="21" column="68" />
+        <mark key="^" line="21" column="69" />
+      </file>
+      <file name="$USER_HOME$/projects/225.L/lab04/case-2.cpp" timestamp="1727075422025">
+        <mark key="&quot;" line="7" column="28" />
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/cse225/225.L/lab04/main.cpp" timestamp="1727439248205">
+        <mark key="&quot;" line="33" column="0" />
+        <mark key="]" line="17" column="11" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="17" column="10" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">XQ==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">ZHdsZWxldGUgW10gcHRyW2ldOw==</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">XDxyXD4=</text>
+      </register>
+      <register name="0" type="CHARACTER_WISE">
+        <text encoding="base64">CiAgICBmb3IoaW50IGk9MDtpPHJvdztpKyspIHsKICAgICAgICBmb3IgKGludCBqPTA7IGo8dGVtcEFycmF5W2ldOyBqKysgKSB7CiAgICAgICAgICAgIGNvdXQ8PHB0cltpXVtqXTw8IGkrMSA8PCBqKzEgPDwgZW5kbDsgIAogICAgICAgICAgICBjaW4+PnB0cltpXVtqXTsKICAgICAgICB9CiAgICB9</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgIGRlbGV0ZVtdIHB0clswXTsK</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBjb3V0PDwiRW50ZXIgbnVtYmVyIG9mIGNvbHVtbnMgeW91IHdhbnQgaW4gZWFjaCByb3cgOiAiIDw8IGkrMSA8PCBlbmRsOwo=</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgIGZvcihpbnQgaT0wO2k8cm93O2krKykgewo=</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBjaW4+PnRlbXBBcnJheVtpXTsK</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgIGludCB0ZW1wQXJyYXlbcm93XTsK</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgY2luPj5wdHJbaV1bal07Cg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxyXD4=</last-search>
+      <last-offset encoding="base64" />
+      <last-pattern encoding="base64">XDxyXD4=</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

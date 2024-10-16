@@ -1,0 +1,149 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="25-09" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3kruwkazrpy28" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;C++&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1727236472433
+    },
+    &quot;CMakeLists.txt&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1727236470758
+    }
+  }
+}</component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.cpp" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C++">
+      <summary usageCount="1" lastUsage="1727236472433" />
+    </language>
+    <language id="CMake">
+      <summary usageCount="1" lastUsage="1727236470764" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.25_09" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2795000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16339001" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32989183" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.10668633" />
+      <window_info anchor="bottom" id="CMake" order="6" visible="true" weight="0.11750246" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.11750246" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Meson" order="5" />
+      <unified_weights bottom="0.11750246" left="0.16339001" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>CMake</value>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="584" y="137" width="742" height="801" key="FileChooserDialogImpl.ideScale=125" timestamp="1727242297476">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="584" y="137" width="742" height="801" key="FileChooserDialogImpl.ideScale=125/0.0.1920.1080@0.0.1920.1080" timestamp="1727242297476" />
+    <state width="1738" height="260" key="GridCell.Tab.0.bottom.ideScale=125" timestamp="1727236911017">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1738" height="260" key="GridCell.Tab.0.bottom.ideScale=125/0.0.1920.1080@0.0.1920.1080" timestamp="1727236911017" />
+    <state width="1718" height="34" key="GridCell.Tab.0.bottom.ideScale=150" timestamp="1727238710283">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1718" height="34" key="GridCell.Tab.0.bottom.ideScale=150/0.0.1920.1080@0.0.1920.1080" timestamp="1727238710283" />
+    <state width="1738" height="260" key="GridCell.Tab.0.center.ideScale=125" timestamp="1727236911017">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1738" height="260" key="GridCell.Tab.0.center.ideScale=125/0.0.1920.1080@0.0.1920.1080" timestamp="1727236911017" />
+    <state width="1718" height="34" key="GridCell.Tab.0.center.ideScale=150" timestamp="1727238710283">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1718" height="34" key="GridCell.Tab.0.center.ideScale=150/0.0.1920.1080@0.0.1920.1080" timestamp="1727238710283" />
+    <state width="1738" height="260" key="GridCell.Tab.0.left.ideScale=125" timestamp="1727236911017">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1738" height="260" key="GridCell.Tab.0.left.ideScale=125/0.0.1920.1080@0.0.1920.1080" timestamp="1727236911017" />
+    <state width="1718" height="34" key="GridCell.Tab.0.left.ideScale=150" timestamp="1727238710283">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1718" height="34" key="GridCell.Tab.0.left.ideScale=150/0.0.1920.1080@0.0.1920.1080" timestamp="1727238710283" />
+    <state width="1738" height="260" key="GridCell.Tab.0.right.ideScale=125" timestamp="1727236911017">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1738" height="260" key="GridCell.Tab.0.right.ideScale=125/0.0.1920.1080@0.0.1920.1080" timestamp="1727236911017" />
+    <state width="1718" height="34" key="GridCell.Tab.0.right.ideScale=150" timestamp="1727238710283">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1718" height="34" key="GridCell.Tab.0.right.ideScale=150/0.0.1920.1080@0.0.1920.1080" timestamp="1727238710283" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

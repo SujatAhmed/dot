@@ -1,0 +1,21 @@
+
+[[Snippets]]
+  Description = "update the system"
+  Filename = "/home/sujat/.config/pet/snippet.toml"
+  Output = ""
+  Tag = []
+  command = "sudo pacman -Syu"
+
+[[Snippets]]
+  Description = "do the whole git thing"
+  Filename = "/home/sujat/.config/pet/snippet.toml"
+  Output = ""
+  Tag = []
+  command = "git add . && git commit -m \"<message>\" && git push origin main"
+
+[[Snippets]]
+  Description = "mpv testing"
+  Filename = "/home/sujat/.config/pet/snippet.toml"
+  Output = ""
+  Tag = []
+  command = "mpv --hwdec=<codec>"
