@@ -1,140 +1,3 @@
-c 
-ls
-cd
-c
-cd
-n .bashrc
-c
-ls
-c
-c
-c
-c
-c
-n .bashrc
-cd
-n .bashrc
-c
-c
-c
-c 
-c
-c
-c
-systemctl hibernate
-fzf
-c
-ls
-m House\ of\ Cards\ \(US\)\ -\ S03E05\ -\ Chapter\ 31\ WEBRip-1080p.mkv 
-m House\ of\ Cards\ \(US\)\ -\ S03E06\ -\ Chapter\ 32\ WEBRip-1080p.mkv 
-h
-h
-h
-h
-h
-h
-h
-h
-h
-h
-h
-h
-h
-h
-h
-h
-clear
-c
-h
-h
-n .bashrc
-h
-c
-c
-m House\ of\ Cards\ \(US\)\ -\ S03E06\ -\ Chapter\ 32\ WEBRip-1080p\(1\).mkv 
-m House\ of\ Cards\ \(US\)\ -\ S03E07\ -\ Chapter\ 33\ WEBRip-1080p.mkv 
-m House\ of\ Cards\ \(US\)\ -\ S03E08\ -\ Chapter\ 34\ WEBRip-1080p.mkv 
-systemctl hibernate
-sudo pacman -Syu 
-c
-m House\ of\ Cards\ \(US\)\ -\ S03E09\ -\ Chapter\ 35\ WEBRip-1080p.mkv 
-m House\ of\ Cards\ \(US\)\ -\ S03E10\ -\ Chapter\ 36\ WEBRip-1080p.mkv 
-c
-c
-m House\ of\ Cards\ \(US\)\ -\ S03E10\ -\ Chapter\ 36\ WEBRip-1080p.mkv 
-n .bashrc
-c
-pe
-c 
-cd
-ls | fzf | cd
-ls | fzf | echo
-c
-rm House\ of\ Cards\ \(US\)\ -\ S03E11\ -\ Chapter\ 37\ WEBRip-1080p.mkv 
-systemctl hibernate
-systemctl hibernate
-pe
-systemctl sleep
-c
-c
-c
-c
-c
-c
-n .inputrc 
-[200~bind -f ~/.inputrc
-nd -f ~/.inputrc
-nd -f ~/.inputrc
-nd -f ~/.inputrc
-bind -f .inputrc 
-bind -f ~/.inputrc
-c
-n .inputrc
-bind -f ~/.inputrc
-n .inputrc 
-n .inputrc 
-bind -f ~/.inputrc
-n .bashrc
-bashrc
-n .bashrc
-__fzf_select__
-c
-n .bashrc
-c
-c
-c
-.gitconfig 
-c
-builtin cd -- /home/sujat/.local
-n .bashec
-n .bashrc
-cd
-n .bashrc
-n .bashrc
-n .bashrc
-clear
-n .inputrc
-bind -f ~/.inputrc
-n .inputrc
-n .bashrc
-n .bashrc
-n .inputrc 
-__fzf_history__
-n .inputrc 
-n .bashrc
-h
-h
-h
-n .bashrc
-n .bashrc
-v
-v
-n .bashrc
-n .bashrc
-bind -X 
-source .bashrc
-source .bashrc
-source .bashrc
 source .bashrc
 source .bashrc
 source .bashrc
@@ -498,3 +361,146 @@ Hyprland
 ls
 systemctl logout
 Hyprland
+ls -a 
+sudo pacman -S fzf starship
+ls-a 
+ls -a 
+rm -rf .bash_logout .bash_profile .bashrc .bash_history 
+ls -a 
+cd sujat-dotfiles/
+stow .
+rm -rf ~/.config/hypr/hyprland.conf
+stow .
+sudo pacman -S git
+git config --global user.name "Sujat Ahmed"
+git config --global user.email "sujatahmed842002@gmail.com"
+sudo pacman -S clone
+sudo pacman -S stow 
+git clone git@github.com:SujatAhmed/sujat-dotfiles.git
+ls
+ls
+ls
+ls-a 
+ls -a
+git clone git@github.com:SujatAhmed/sujat-dotfiles.git
+ssh-keygen -t ed25519 -C "sujatahmed842002@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+sudo pacman -S wl-clipboard 
+cat ~/.ssh/id_ed25519.pub
+ssh -T git@github.com
+git clone git@github.com:SujatAhmed/sujat-dotfiles.git
+ls
+cd sujat-dotfiles/
+stow .
+stow .
+sudo pacman -S waybar 
+hyprctl dispatch exit
+sudo pacman -S zoxide
+ls
+unzip
+sudo pacman -S unzip
+cd .local/share
+mkdir fonts
+ls
+cd 
+c
+ls
+c
+c
+ls
+unzip JetBrainsMono.zip -d ~/.local/share/fonts
+ls
+sudo pacman -S wofi 
+sudo pacman -S neovim
+l
+ls
+n
+neovim
+nvim
+ls
+c
+c
+c ~
+ls
+stow .
+cd ..
+nvim
+c
+ls
+c
+cd .config
+ls
+poweroff
+cd sujat-dotfiles/
+git pull origin main
+stow .
+cd ..
+m
+n
+ls
+c
+c 
+cd .config
+ls
+ls
+cd
+cd sujat-dotfiles/
+cd .config
+ls
+cd nvim
+ls
+sudo mount /dev/sda1 /mnt
+cd /mnt
+ls
+cd
+sudo  umount /dev/sda1
+sudo mount /dev/sda2
+sudo mount /dev/sda2 /mnt
+cd /mnt
+ls
+cd home/sujat
+ls
+cd .config
+ls
+cd ..
+cd sujat-dotfiles/
+cd .config
+ls
+cd nvim
+ls
+cd ..
+cp nvim ~
+cp -r nvim ~
+cd
+ls
+cd nvim 
+ls
+rm -rf .git
+ls
+rm -rf ~/sujat-dotfiles/.config/nvim/
+cd ..
+mv nvim ~/sujat-dotfiles/.config
+c
+cd .config
+ls
+cd ..
+stow .
+nvim
+sudo pacman -S npm 
+n
+ls
+cd .config
+ls
+cd ..
+cd
+chsh -s /usr/bin/zsh
+sudo pacman -S zsh
+chsh -s /usr/bin/zsh
+hyprctl dispatch exit
+cd /mnt
+ls
+cd home/sujat
+ls
+ls -a
+cp -r .zshrc .zsh_history ~
