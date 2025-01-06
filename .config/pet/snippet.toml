@@ -1,0 +1,14 @@
+
+[[Snippets]]
+  Description = "git push"
+  Filename = "/home/sujat/.config/pet/snippet.toml"
+  Output = ""
+  Tag = []
+  command = "git add . && git commit -m \"<message>\" && git push origin <branch>"
+
+[[Snippets]]
+  Description = "update system"
+  Filename = "/home/sujat/.config/pet/snippet.toml"
+  Output = ""
+  Tag = []
+  command = "sudo pacman -Syu"
