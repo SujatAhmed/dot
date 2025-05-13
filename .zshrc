@@ -51,9 +51,11 @@ alias pe='pet exec'
 alias pn='pet new'
 alias c='cd-fzf'
 alias head='cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=1'
-
+alias rm='rm -i'
 
 
 
 # Created by `pipx` on 2025-01-01 18:01:16
 export PATH="$PATH:/home/sujat/.local/bin"
+
+[ -f "/home/sujat/.ghcup/env" ] && . "/home/sujat/.ghcup/env" # ghcup-env
