@@ -11,15 +11,10 @@
 
 
       "hyprland/workspaces": {
-        "format": "{name}:{icon}  |",
+        "format": "{name} {icon}  |",
         "format-icons": {
-          "1": "󰈹",
-          "2": "",
-          "3": "",
-          "4": "",
-          "5": "",
           "active": "",
-          "default": ""
+          "default": ""
         },
         "persistent-workspaces": {
           "*": 5, // 7 workspaces by default on every monitor

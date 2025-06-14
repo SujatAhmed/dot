@@ -1,0 +1,80 @@
+
+* {
+    font-family: Jetbrains Mono Nerd Font, monospace;
+    font-size: 18px;
+}
+
+window#waybar { 
+    background-color: #0d0d0d; /* very dark gray */
+    color: #f0f0f0; /* light gray */
+}
+
+.modules-left,
+.modules-right {
+    background-color: #1a1a1a; /* slightly lighter than window */
+    padding: 0px;
+}
+
+#custom-scratch {
+    background-color: #222222;
+    color: #cccccc;
+    padding: 0px 9px;
+}
+
+#workspaces {
+}
+
+#workspaces button {
+    padding: 0px;
+    min-width: 1px;
+    background-color: #1f1f1f;
+    color: #bbbbbb;
+}
+
+#workspaces button.focused { 
+    background-color: #e0e0e0; /* light gray */
+    color: #0d0d0d; /* dark text on light background */
+}
+
+#mode { 
+    background-color: #cccccc;
+    color: #111111;
+    padding: 0px 5px;
+    border: 1px solid #2b2b2b;
+}
+
+#window {
+    color: #f0f0f0;
+    background-color: #181818;
+    padding: 0px 10px;
+}
+
+window#waybar.empty #window {
+    background-color: #0d0d0d;
+    color: transparent;
+}
+
+window#waybar.empty {
+    background-color: #0d0d0d;
+}
+
+#network,
+#temperature,
+#backlight,
+#pulseaudio,
+#battery,
+#clock {
+    padding: 0px;
+    color: #e5e5e5;
+}
+
+#tray {
+    padding: 0px 8px;
+    margin: 0px 5px;
+}
+
+#battery.critical,
+#network.disconnected {
+    color: #ff6666; /* red-tinted gray for alerts */
+}
+
