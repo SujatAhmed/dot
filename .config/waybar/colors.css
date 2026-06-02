@@ -1,0 +1,23 @@
+/*
+ * Custom palette: olive-maroon
+ * #FFDE42 yellow accent
+ * #4C5C2D dark olive
+ * #313E17 deep green
+ * #1B0C0C near-black maroon
+ */
+
+@define-color base           #1B0C0C;
+@define-color surface        #231414;
+@define-color overlay        #313E17;
+@define-color muted          #4C5C2D;
+@define-color subtle         #7A8B45;
+@define-color text           #F0E8C0;
+@define-color yellow         #FFDE42;
+@define-color highlight_low  #251616;
+@define-color highlight_med  #3A2515;
+@define-color highlight_high #4C5C2D;
+
+/* aliases used by style.css */
+@define-color background  #1B0C0C;
+@define-color primary     #FFDE42;
+@define-color secondary   #4C5C2D;
